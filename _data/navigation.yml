@@ -1,0 +1,25 @@
+# main links
+main:
+# - title: "About"
+#   url: /about/
+ - title: "Activities"
+   url: /events/
+ - title: "Twitter"
+   url: https://twitter.com/rsgbelgium
+ - title: "Facebook"
+   url: https://www.facebook.com/RSGBelgium
+ - title: "Organisation"
+   url: /organisation/
+ - title: "Mission statement"
+   url: /mission/   
+
+ - title: "Contact us"
+   url: <rsg-belgium@iscbsc.org>
+   
+   
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
