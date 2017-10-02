@@ -11,8 +11,6 @@
           {% comment %} internal/external URL check {% endcomment %}
           {% if nav.url contains "://" %}
             {% assign domain = "" %}
-          {% elsif nav.url contains "mailto:" %}
-            {% assign domain = site.url %}
           {% else %}
             {% assign domain = site.url | append: site.baseurl %}
           {% endif %}
