@@ -2,7 +2,7 @@
 main:
 # - title: "About"
 #   url: /about/
- - title: "Activities"
+ - title: "Events"
    url: /events/
  - title: "Twitter"
    url: https://twitter.com/rsgbelgium
@@ -12,9 +12,8 @@ main:
    url: /organisation/
  - title: "Mission statement"
    url: /mission/   
-
- - title: "Contact us"
-   url: <rsg-belgium@iscbsc.org>
+# - title: "Contact us"
+#   url: <rsg-belgium@iscbsc.org>
    
    
   # - title: "Sample Posts"

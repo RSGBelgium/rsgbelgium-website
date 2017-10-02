@@ -21,13 +21,16 @@ minimal_mistakes_skin : "air"
 
 locale                   : "en"
 title                    : "ISCB Regional Student Group - Belgium"
+title-img : "/assets/img/RSGlogoBelgium.png"
 title_separator          : "-"
 name                     : "RSG Belgium"
 description              : "The Belgian branch of the international student organisation for bioinformaticians and computational biologists (ISCB Student Council)."
-url                      : "http://www.rsg-belgium.iscbsc.org/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://www.rsg-belgium.iscbsc.org/
+#"http://www.rsg-belgium.iscbsc.org/" 
+# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"
 #repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/img/RSGlogoBelgium.png" 
+teaser                   : "/assets/img/RSGlogoBelgium.png"
 # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 
 # breadcrumbs            : false # true, false (default)
@@ -193,8 +196,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 timezone: Europe/Brussels # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -264,6 +267,7 @@ defaults:
       comments: true
       share: true
       related: true
+
 
 
 
