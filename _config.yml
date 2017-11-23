@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 twitter_username: rsgbelgium
 
-minimal_mistakes_skin : "air" 
+minimal_mistakes_skin : "dark"
 # "air", "contrast", "dark", "dirt", "mint", "sunrise", "default"
 
 
@@ -25,8 +25,8 @@ title-img : "/assets/img/RSGlogoBelgium.png"
 title_separator          : "-"
 name                     : "RSG Belgium"
 description              : "The Belgian branch of the international student organisation for bioinformaticians and computational biologists (ISCB Student Council)."
-url                      : http://pmoris.github.io/rsgwebsite
-baseurl                  : /rsgwebsite
+url                      : http://www.rsg-belgium.iscbsc.org/
+baseurl                  : 
 #http://www.rsg-belgium.iscbsc.org/
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : # the subpath of your site, e.g. "/blog"

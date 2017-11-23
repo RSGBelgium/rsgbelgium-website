@@ -8,12 +8,12 @@ main:
    url: https://twitter.com/rsgbelgium
  - title: "Facebook"
    url: https://www.facebook.com/RSGBelgium
- - title: "Organisation"
-   url: /organisation/
+ - title: "Organization"
+   url: /organization/
  - title: "Mission statement"
    url: /mission/   
-# - title: "Contact us"
-#   url: <rsg-belgium@iscbsc.org>
+ - title: "Contact us"
+   url: /contact/
    
    
   # - title: "Sample Posts"
