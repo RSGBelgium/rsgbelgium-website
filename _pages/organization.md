@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "The RSG Belgium team"
-permalink: /organisation/
+permalink: /organization/
 author_profile: true
 header:
  #overlay_color: "#378973"
