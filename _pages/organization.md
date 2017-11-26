@@ -16,7 +16,7 @@ feature_row1:
   - image_path: /assets/img/daniele2-rescaled.png
     alt: "Daniele"
     title: "President: Daniele Parisi"
-    excerpt: 'The current president of RSG Belgium. Daniele is a PhD student researching drug-target interaction predictions at the [KU Leuven](https://www.esat.kuleuven.be/stadius/person.php?id=784).'
+    excerpt: 'The current president of RSG Belgium. Daniele is a PhD student researching drug-target interaction predictions @[KU Leuven](https://www.esat.kuleuven.be/stadius/person.php?id=784).'
     url: "http://www.esat.kuleuven.be/stadius/person.php?id=784"
     btn_label: "Personal link"
     btn_class: "btn--primary"
@@ -29,11 +29,19 @@ feature_row2:
     btn_label: "Personal link"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/img/bart-rescaled.png
+  - image_path: /assets/img/bart-rescaled-reduced.jpg
     alt: "Cuypers"
-    title: "Former president (2016): Bart Cuypers"
-    excerpt: 'The former president of RSG Belgium and current RSG Vice-Chair Europe, Bart is a PhD student at the ADReM Data Lab [@UAntwerpen](https://www.uantwerpen.be/en/staff/bart-cuypers/) and the Molecular Parasitology Unit in the [Institute of Tropical Medicine](https://pure.itg.be/en/persons/bart-cuypers(cfb799bd-5cf3-430c-a64f-b32e6e09ba45).html).'
+    title: "Former president (2015-2016): Bart Cuypers"
+    excerpt: 'The former president of RSG Belgium and current RSG Vice-Chair Europe, Bart is a PhD student at the ADReM Data Lab [@UAntwerpen](https://www.uantwerpen.be/en/staff/bart-cuypers/) and the Molecular Parasitology Unit in the [Institute of Tropical Medicine](https://pure.itg.be/en/persons/bart-cuypers(cfb799bd-5cf3-430c-a64f-b32e6e09ba45).html). As a true *Leishmaniac*, Bart combines wet-lab expertise with computational -omics skills.'
     url: "https://pure.itg.be/en/persons/bart-cuypers(cfb799bd-5cf3-430c-a64f-b32e6e09ba45).html"
+    btn_label: "Personal link"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/img/moris-rescaled.png
+    alt: "Moris"
+    title: "Website coordinator: Pieter Moris"
+    excerpt: 'Pieter is a PhD student at the ADReM Data Lab [@UAntwerpen](https://www.uantwerpen.be/en/staff/pieter-moris/) whose research focuses on host-pathogen interactions and machine learning.'
+    url: "https://www.uantwerpen.be/en/staff/pieter-moris/"
     btn_label: "Personal link"
     btn_class: "btn--primary"
 
@@ -43,3 +51,5 @@ feature_row3:
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row4" type="right" %}

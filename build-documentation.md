@@ -1,3 +1,9 @@
+# TODO:
+- ~web team~
+- ~reduce size of images~
+- open FB/twitter in new tab (external links https://mmistakes.github.io/minimal-mistakes/docs/docs-2-2/)
+- ~disable FB comments~ later enable if it works...
+
 # Overwriting theme defaults
 
 Where to find `_data`, `_includes` and `_layouts`: run `bundle show minimal-mistakes-jekyll` and copy them to page directory.
