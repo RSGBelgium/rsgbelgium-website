@@ -3,6 +3,7 @@
 - ~reduce size of images~
 - open FB/twitter in new tab (external links https://mmistakes.github.io/minimal-mistakes/docs/docs-2-2/)
 - ~disable FB comments~ later enable if it works...
+- bart bio
 
 # Overwriting theme defaults
 
