@@ -12,7 +12,7 @@ For more than ten years this event has been a great opportunity to face the rich
 The *Benelux Bioinformatics Conference* is the primary community event for bioinformatics researchers in the Netherlands, Belgium, and Luxembourg with excellent networking opportunities. The conference is aimed at both academic and industry researchers. Over two days it will feature:
 
 - Four extended keynote presentations on recent breakthroughs in bioinformatics and systems biology.
-- Eight hort presentations contributed by the participants detailing recent advances in their fields.
+- Eight short presentations contributed by the participants detailing recent advances in their fields.
 - Extensive poster sessions for informal discussions and networking.
 - A networking social dinner to improve the bonds with your colleagues
 - Two different workshops to explore and discover interesting new topics.
