@@ -4,6 +4,9 @@
 - open FB/twitter in new tab (external links https://mmistakes.github.io/minimal-mistakes/docs/docs-2-2/)
 - ~disable FB comments~ later enable if it works...
 - bart bio
+-  /categories/
+- homepage points to //
+- Something weird is going on when pushing updates directly. Local changes aren't reflected. E.g. student-symposium tag removal in post about BBC17.
 
 # Overwriting theme defaults
 

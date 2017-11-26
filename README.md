@@ -24,6 +24,6 @@ Use `bundle exec jekyll build` to create an updated version of the site ready fo
 
 Example work flow:
 
-`rsync -varPn--delete -e ssh _site rsgbelgium@rsg-belgium.iscbsc.org:/home/rsgbelgium/rsg-belgium.iscbsc.org/`
+`rsync - --delete -e ssh _site/ rsgbelgium@rsg-belgium.iscbsc.org:/home/rsgbelgium/rsg-belgium.iscbsc.org/`
 
-Omit the `-n` dry flag for an actual sync to occur.
+Omit the `-n` dry flag for an actual sync to occur. Don't forget the `/` at the end of the `_site` directory to push the *contents* of the directory rather than the directory itself.
