@@ -16,7 +16,7 @@ feature_row1:
   - image_path: /assets/img/daniele2-rescaled.png
     alt: "Daniele"
     title: "President: Daniele Parisi"
-    excerpt: 'The current president of RSG Belgium. Daniele is a PhD student researching drug-target interaction predictions @[KU Leuven](https://www.esat.kuleuven.be/stadius/person.php?id=784).'
+    excerpt: 'The current president of RSG Belgium. Daniele is a PhD student researching drug-target interaction predictions [@KU Leuven](https://www.esat.kuleuven.be/stadius/person.php?id=784).'
     url: "http://www.esat.kuleuven.be/stadius/person.php?id=784"
     btn_label: "Personal link"
     btn_class: "btn--primary"
