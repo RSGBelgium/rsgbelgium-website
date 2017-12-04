@@ -25,7 +25,7 @@ title-img : "/assets/img/RSGlogoBelgium.png"
 title_separator          : "-"
 name                     : "RSG Belgium"
 description              : "The Belgian branch of the international student organisation for bioinformaticians and computational biologists (ISCB Student Council)."
-url                      : http://www.rsg-belgium.iscbsc.org/
+url                      : http://www.rsg-belgium.iscbsc.org
 baseurl                  : 
 #http://www.rsg-belgium.iscbsc.org/
 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
