@@ -32,7 +32,7 @@ feature_row3:
   - image_path: /assets/img/bart-rescaled-reduced.jpg
     alt: "Cuypers"
     title: "Former president (2015-2016): Bart Cuypers"
-    excerpt: 'The former president of RSG Belgium and current RSG Vice-Chair Europe, Bart is a PhD student at the ADReM Data Lab [@UAntwerpen](https://www.uantwerpen.be/en/staff/bart-cuypers/) and the Molecular Parasitology Unit in the [Institute of Tropical Medicine](https://pure.itg.be/en/persons/bart-cuypers(cfb799bd-5cf3-430c-a64f-b32e6e09ba45).html). As a true *Leishmaniac*, Bart combines wet-lab expertise with computational -omics skills.'
+    excerpt: 'The former president of RSG Belgium and current RSG Vice-Chair Europe, Bart is a PhD student at the ADReM Data Lab [@UAntwerpen](https://www.uantwerpen.be/en/staff/bart-cuypers/) and the Molecular Parasitology Unit in the [Institute of Tropical Medicine](https://pure.itg.be/en/persons/bart-cuypers(cfb799bd-5cf3-430c-a64f-b32e6e09ba45).html). As a true *Leishmaniac*, Bart combines wet-lab expertise with computational -omics wizardry.'
     url: "https://pure.itg.be/en/persons/bart-cuypers(cfb799bd-5cf3-430c-a64f-b32e6e09ba45).html"
     btn_label: "Personal link"
     btn_class: "btn--primary"

@@ -7,6 +7,8 @@
 -  /categories/
 - homepage points to //
 - Something weird is going on when pushing updates directly. Local changes aren't reflected. E.g. student-symposium tag removal in post about BBC17.
+- Recent posts https://github.com/mmistakes/minimal-mistakes/issues/1251
+- non greedy navigation https://github.com/mmistakes/minimal-mistakes/issues/902
 
 # Overwriting theme defaults
 
