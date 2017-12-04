@@ -23,6 +23,10 @@ Edit `_includes/footer.html` by adding:
     {% endif %}
 ```
 
+## Include Slack
+<li><a href="mailto:rsg-belgium@iscbsc.org?Subject=RSG%20Slack%20Subscription&Body=I%20would%20like%20to%20join%20the%20RSG%20Belgium%20Slack%20channel%2E"><i class="fa fa-fw fa-slack" aria-hidden="true"></i> Slack</a></li>
+
+
 # Masthead with e-mail links
 
 Add condition:
@@ -31,7 +35,6 @@ Add condition:
 {% elsif link.url contains 'mailto' %}
     {% assign domain = '' %}
 ```
-
 
 # Custom CSS
 
