@@ -7,6 +7,8 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
+            {% elsif link.url contains 'mailto' %}
+                {% assign domain = '' %}
             {% else %}
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}

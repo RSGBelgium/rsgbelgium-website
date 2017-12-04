@@ -23,6 +23,16 @@ Edit `_includes/footer.html` by adding:
     {% endif %}
 ```
 
+# Masthead with e-mail links
+
+Add condition:
+
+```
+{% elsif link.url contains 'mailto' %}
+    {% assign domain = '' %}
+```
+
+
 # Custom CSS
 
 In `assets/css/main.scss` add:
