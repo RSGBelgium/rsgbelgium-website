@@ -13,123 +13,127 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-twitter_username: rsgbelgium
 
-minimal_mistakes_skin : "dark"
-# "air", "contrast", "dark", "dirt", "mint", "sunrise", "default"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve`. If you change this file, please restart the server process.
 
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-locale                   : "en"
+# Site Settings
+locale                   : "en-US"
 title                    : "ISCB Regional Student Group - Belgium"
-title-img : "/assets/img/RSGlogoBelgium.png"
+title-img                :  "/assets/img/RSGlogoBelgium.png"
 title_separator          : "-"
 name                     : "RSG Belgium"
 description              : "The Belgian branch of the international student organisation for bioinformaticians and computational biologists (ISCB Student Council)."
-url                      : http://www.rsg-belgium.iscbsc.org
-baseurl                  : 
-#http://www.rsg-belgium.iscbsc.org/
-# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#baseurl                  : # the subpath of your site, e.g. "/blog"
-#repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/img/RSGlogoBelgium.png"
-# path of fallback teaser image, e.g. "/assets/images/500x300.png"
-
+url                      : http://www.rsg-belgium.iscbsc.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
+repository               : RSGBelgium/rsgbelgium-website # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-#words_per_minute         : 200
-#comments:
-#  provider               : "facebook"
-  # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-#  disqus:
-#    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-#  discourse:
-#    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-#  facebook:
+words_per_minute         : 200
+comments:
+  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  disqus:
+    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+  discourse:
+    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  facebook:
     # https://developers.facebook.com/docs/plugins/comments
-#    appid                :
-#    num_posts            : # 5 (default)
-#    colorscheme          : # "light" (default), "dark"
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+staticman:
+  allowedFields          : # ['name', 'email', 'url', 'message']
+  branch                 : # "master"
+  commitMessage          : # "New comment."
+  filename               : # comment-{@timestamp}
+  format                 : # "yml"
+  moderation             : # true
+  path                   : # "/_data/comments/{options.slug}" (default)
+  requiredFields         : # ['name', 'email', 'message']
+  transforms:
+    email                : # "md5"
+  generatedFields:
+    date:
+      type               : # "date"
+      options:
+        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+reCaptcha:
+  siteKey                :
+  secret                 :
+atom_feed:
+  path                   : # blank (default) uses feed.xml
+search                   : # true, false (default)
+search_full_content      : # true, false (default)
 
-#staticman:
-#  allowedFields          : ['name', 'email', 'url', 'message']
-#  branch                 : "master"
-#  commitMessage          : "New comment."
-#  filename               : comment-{@timestamp}
-#  format                 : "yml"
-#  moderation             : true
-#  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
-#  requiredFields         : ['name', 'email', 'message']
-#  transforms:
-#    email                : "md5"
-#  generatedFields:
-#    date:
-#      type               : "date"
-#      options:
-#        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-#atom_feed:
-#  path                   : # blank (default) uses feed.xml
-
-
-# SEO Related see https://mmistakes.github.io/minimal-mistakes/docs/configuration/
-# google_site_verification :
-# bing_site_verification   :
-# alexa_site_verification  :
-# yandex_site_verification :
+# SEO Related
+google_site_verification :
+bing_site_verification   :
+yandex_site_verification :
+naver_site_verification  :
 
 # Social Sharing
-#instagram: 
-#twitter: 
-#facebook: 
-
 twitter:
-  username               : "rsgbelgium"
+  username               : rsgbelgium
 facebook:
-  username               : "RSGBelgium"
-#  app_id                 :
-#  publisher              :
-og_image                 : "/assets/img/RSGlogoBelgium.png"
-# Open Graph/Twitter default site image
+  username               : RSGBelgium
+  app_id                 :
+  publisher              :
+og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : "Organisation"
-  # Person or Organization (defaults to Person)
-  name                   : "RSGBelgium"
-  # If the user or organization name differs from the site's name
-links: # An array of links to social media profiles
- - "https://twitter.com/rsgbelgium"
- - "https://www.facebook.com/RSGBelgium/"
- 
+  type                   : Organization # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links:  
+    - "https://twitter.com/rsgbelgium"
+    - "https://www.facebook.com/RSGBelgium/"# An array of links to social media profiles
+
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          :
+
+
 # Site Author
 author:
   name             : "RSG Belgium"
-  avatar           : "/assets/img/RSGlogoBelgium.png"
+  avatar           : "/assets/img/RSGlogoBelgium.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The Belgian regional student group of the ISCB Student Council."
-#  location         : "Belgium"
+  location         : "Belgium"
   email            : "rsg-belgium@iscbsc.org"
-#  uri              :
-#  bitbucket        :
-#  codepen          :
-#  dribbble         :
-#  flickr           :
+  uri              :
+  home             : # null (default), "absolute or relative url to link to author home"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
   facebook         : "RSGBelgium"
-#  foursquare       :
-#  github           :
-#  gitlab           :
-#  google_plus      :
-#  keybase          :
-#  instagram        : "rsgbelgium"
-#  lastfm           :
-#  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-#  pinterest        :
-#  soundcloud       :
-#  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-#  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
-#  tumblr           : 
+  foursquare       :
+  github           : "RSGBelgium"
+  gitlab           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
+  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  tumblr           :
   twitter          : "rsgbelgium"
-#  vine             :
-#  weibo            :
-#  xing             :
-#  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -197,18 +201,19 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-#paginate: 5 # amount of posts to show
-#paginate_path: /page:num/
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
 timezone: Europe/Brussels # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  # - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-gist
+  # - jekyll-gist
   - jekyll-feed
-  - jemoji
+  # - jemoji
+  - jekyll-data
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -217,6 +222,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-data
 
 
 # Archives
@@ -256,6 +262,7 @@ compress_html:
     envs: development
 
 
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -265,33 +272,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: false
-      comments: false
+      comments: false # true
       share: true
       related: false
-
-
-
-
-
-
-# Build settings
-markdown: kramdown
-#theme: minima
-theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-
-
