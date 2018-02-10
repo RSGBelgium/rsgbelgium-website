@@ -6,19 +6,19 @@ header:
   #overlay_color: "#378973"
   overlay_color: "#0d9ea5"
   overlay_filter: "0.5"
-  overlay_image: /assets/img/RSGlogoBelgium-banner.png
+  overlay_image: /assets/img/RSGlogoBelgium-banner-notext.png
   cta_label: "Subscribe to our mailing list"
   cta_url: "http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "RSG Belgium provides a network for young computational biology and bioinformatics students and researchers in Belgium."
 # <br/><br/>To stay informed about our activities, head over to our events page, social media accounts or mailing list."
 intro:
-  - excerpt: 'Welcome to the homepage of **RSG Belgium**, the Belgian branch of the <br>**ISCB Student Council Regional Groups**.<br>If you are interested in joining our network or if you just want to keep up to date on the latest RSG Belgium news, please check out our [upcoming activities](/events/), follow our social media accounts (<i class="fa fa-twitter" aria-hidden="true"></i> [Twitter](https://twitter.com/rsgbelgium) & <i class="fa fa-facebook" aria-hidden="true"></i> [Facebook](https://www.facebook.com/RSGBelgium)), join our <i class="fa fa-slack" aria-hidden="true"></i> [Slack channel](mailto:rsg-belgium@iscbsc.org?Subject=RSG%20Slack%20Subscription&Body=I%20would%20like%20to%20join%20the%20RSG%20Belgium%20Slack%20channel%2E) or subscribe to the <i class="fa fa-envelope-o" aria-hidden="true"></i> [mailing list](http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium).<br>We hope to see you at one of our upcoming events!'
+  - excerpt: 'Welcome to the homepage of **RSG Belgium**, the Belgian branch of the <br>**ISCB Student Council's Regional Student Groups**.<br>If you are interested in joining our network or if you just want to keep up to date on the latest RSG Belgium news, please check out our [upcoming activities](/news/), follow our social media accounts (<i class="fa fa-twitter" aria-hidden="true"></i> [Twitter](https://twitter.com/rsgbelgium) & <i class="fa fa-facebook" aria-hidden="true"></i> [Facebook](https://www.facebook.com/RSGBelgium)), join our <i class="fa fa-slack" aria-hidden="true"></i> [Slack channel](mailto:rsg-belgium@iscbsc.org?Subject=RSG%20Slack%20Subscription&Body=I%20would%20like%20to%20join%20the%20RSG%20Belgium%20Slack%20channel%2E) or subscribe to the <i class="fa fa-envelope-o" aria-hidden="true"></i> [mailing list](http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium).<br>We hope to see you at one of our upcoming events!'
 feature_row:
   - #image_path: assets/images/unsplash-gallery-image-1-th.jpg
     #alt: "placeholder image 1"
     title: "Events"
-    excerpt: "An overview of our upcoming<br>and previous activities.<br>"
+    excerpt: "An overview of our upcoming<br>and previous activities,<br>as well as general announcements."
     url: "/events/"
     btn_label: "Activities overview"
     btn_class: "btn--primary"

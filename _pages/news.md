@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Events
-permalink: /events/
+title: News
+permalink: /news/
 author_profile: true
 defaults:
   # _posts
