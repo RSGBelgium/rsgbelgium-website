@@ -1,6 +1,6 @@
 # RSG Belgium website
 
-## Making posts or announcements
+## Creating posts or announcements
 
 Each post consists of a markdown file in the `_posts` directory. Each post should include a front matter:
 ```
@@ -27,3 +27,9 @@ Example work flow:
 `rsync -Pvahn --delete -e ssh _site/ rsgbelgium@rsg-belgium.iscbsc.org:/home/rsgbelgium/rsg-belgium.iscbsc.org/`
 
 Omit the `-n` dry flag for an actual sync to occur. Don't forget the `/` at the end of the `_site` directory to push the *contents* of the directory rather than the directory itself.
+
+## Requirements
+
+- minimal-mistakes-jekyll-4.9.1 (was 4.6.0)
+- jekyll 3.7.2 (was 3.6.2)
+- ruby 2.5.0 (installed via rbenv as desribed here: https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-16-04)
