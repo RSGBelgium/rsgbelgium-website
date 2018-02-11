@@ -21,3 +21,13 @@ main:
 
  - title: "Contact us"
    url: /contact/
+
+organization:
+  - title: "Organization of RSG Belgium"
+    children:
+      - title: "The Board"
+        url: the-board
+      - title: "University Representatives"
+        url: university-representatives
+      - title: "ISCB Student Council"
+        url: http://www.iscbsc.org/
