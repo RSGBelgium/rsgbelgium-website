@@ -7,15 +7,23 @@
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
-              {% assign newtab = 'target="_blank"' %}
             {% elsif link.url contains 'mailto' %}
               {% assign domain = '' %}
             {% else %}
               {% assign domain = site.url | append: site.baseurl %}
             {% endif %}
-            <li class="masthead__menu-item">
+
+            {% if link.url contains 'twitter' or link.url contains 'facebook' %}
               <a href="{{ domain }}{{ link.url }}" {{newtab}} {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
-            </li>
+            {% else %}
+            <!-- {% unless link.url contains 'iscbsc' %}
+              {% assign newtab = 'target="_blank"' %}
+            {% endunless %} -->
+              <li class="masthead__menu-item">
+                <a href="{{ domain }}{{ link.url }}" {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>
+              <!-- <a href="{{ domain }}{{ link.url }}" {{newtab}} {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a> -->
+              </li>
+            {% endif %}
           {% endfor %}
         </ul>
         {% if site.search == true %}
