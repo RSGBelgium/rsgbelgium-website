@@ -123,3 +123,44 @@ $primary-color: #0d9ea5 !default;
     text-decoration: none;
   }
 }
+
+// .archive {
+//   margin-bottom: 2em;
+//   // display: table-cell;
+//   // text-align: center;
+//   // vertical-align: middle;
+//   // vertical-align: text-top;
+//   // vertical-align:middle;
+//   // display: inline;
+//   // display: inline-block;
+//   // height: 100%;
+//   // vertical-align: middle;
+//   // position:relative;
+
+//   @include breakpoint($large) {
+//     float: right;
+//     width: calc(100% - #{$right-sidebar-width-narrow});
+//     padding-right: $right-sidebar-width-narrow;
+//   }
+
+//   @include breakpoint($x-large) {
+//     width: calc(100% - #{$right-sidebar-width});
+//     padding-right: $right-sidebar-width;
+//   }
+// }
+
+
+
+// .archive__item-teaser {
+//   text-align: center;
+//   position: relative;
+//   top: 50%;
+//   -ms-transform: translateY(-50%);
+//   -webkit-transform: translateY(-50%);
+//   transform: translateY(-50%);
+//   border-radius: $border-radius;
+//   overflow: hidden;
+//   img {
+//     width: 95%;
+//   }
+// }
