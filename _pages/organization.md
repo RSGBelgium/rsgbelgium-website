@@ -16,7 +16,7 @@ excerpt: "Meet the people that keep RSG Belgium running.<br><br>***Announcement*
 feature_row1:
   - image_path: /assets/img/daniele2-rescaled.png
     alt: "Daniele"
-    title: "President: Daniele Parisi"
+    title: "President (2016): Daniele Parisi"
     excerpt: 'The current president of RSG Belgium. Daniele is a PhD student researching drug-target interaction predictions [@KU Leuven](https://www.esat.kuleuven.be/stadius/person.php?id=784).'
     # url: "http://www.esat.kuleuven.be/stadius/person.php?id=784"
     # btn_label: "Personal link"
@@ -24,15 +24,15 @@ feature_row1:
 feature_row2:
   - image_path: /assets/img/nikolina.jpg
     alt: "Sostaric"
-    title: "Vice President: Nikolina Sostaric"
-    excerpt: 'The current vice-president of RSG Belgium, Nikolina is an FWO PhD fellow in the [Computational Systems Biology lab](https://www.biw.kuleuven.be/CSB/) of prof. Vera van Noort [@KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00106894). Her research focuses on function of post-translational modifications in protein interactions.'
+    title: "Vice President (2018): Nikolina Sostaric"
+    excerpt: 'The current vice-president of RSG Belgium, Nikolina is an FWO PhD fellow in the [Computational Systems Biology lab](https://www.biw.kuleuven.be/CSB/) of Prof. Vera van Noort [@KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00106894). Her research focuses on the function of post-translational modifications in protein interactions.'
     # url: "https://www.kuleuven.be/wieiswie/en/person/00106894"
     # btn_label: "Personal link"
     # btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/img/sander-rescaled.png
     alt: "Wuyts"
-    title: "Secretary: Sander Wuyts"
+    title: "Secretary (2016): Sander Wuyts"
     excerpt: 'PhD student computational microbiology at [@UAntwerpen](https://www.uantwerpen.be/en/rg/endemic/research/research-topics/lab-of-applied-micro/) (Lab of @SarahLebeer) and [@VUBrussel](http://imdo.vub.ac.be/). Also, volleyball player and snowboarder.'
     # url: "https://www.uantwerpen.be/nl/personeel/sander-wuyts/"
     # btn_label: "Personal link"
@@ -48,7 +48,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/img/bart-rescaled-reduced.jpg
     alt: "Cuypers"
-    title: "Former president (2015-2016): Bart Cuypers"
+    title: "Former president (2015 - 2016): Bart Cuypers"
     excerpt: 'The former president of RSG Belgium and current RSG Vice-Chair Europe, Bart is a PhD student at the ADReM Data Lab [@UAntwerpen](https://www.uantwerpen.be/en/staff/bart-cuypers/) and the Molecular Parasitology Unit in the [Institute of Tropical Medicine](https://pure.itg.be/en/persons/bart-cuypers(cfb799bd-5cf3-430c-a64f-b32e6e09ba45).html). As a true *Leishmaniac*, Bart combines wet-lab expertise with computational -omics wizardry.'
     # url: "https://pure.itg.be/en/persons/bart-cuypers(cfb799bd-5cf3-430c-a64f-b32e6e09ba45).html"
     # btn_label: "Personal link"
@@ -56,7 +56,7 @@ feature_row5:
 feature_row6:
   - image_path: /assets/img/andrea-rescaled.png
     alt: "Gazzo"
-    title: "Former Vice President (2016-2017): Andrea Gazzo"
+    title: "Former Vice President (2016 - 2018): Andrea Gazzo"
     excerpt: 'Andrea is a PhD student at the [Interuniversity Institute of Bioinformatics](http://ibsquare.be/members/andrea-gazzo) and the [Université Libre de Bruxelles](https://www.ulb.ac.be/rech/inventaire/chercheurs/7/CH15177.html).'
     # url: "https://www.ulb.ac.be/rech/inventaire/chercheurs/7/CH15177.html"
     # btn_label: "Personal link"
@@ -79,6 +79,8 @@ use toc: true in YAML in the future. This also adds sub-title of feature_rows
 Bullet-list ToC
 * [The Board](#the-board)
 * [University Representatives](#university-representatives) -->
+
+<!-- {% include toc %} -->
 
 # The Board
 
