@@ -1,3 +1,26 @@
+
+
+<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
+<!-- code_chunk_output -->
+
+* [TODO:](#todo)
+* [Overwriting theme defaults](#overwriting-theme-defaults)
+* [Including e-mail in footer](#including-e-mail-in-footer)
+	* [Include Slack in footer](#include-slack-in-footer)
+* [Masthead with e-mail links](#masthead-with-e-mail-links)
+* [Masthead external links open in new tab](#masthead-external-links-open-in-new-tab)
+* [Custom CSS](#custom-css)
+* [Only the main Sass file needs front matter (the dashes are enough)](#only-the-main-sass-file-needs-front-matter-the-dashes-are-enough)
+* [New feature_row_posts for main page](#new-feature_row_posts-for-main-page)
+* [buttons](#buttons)
+* [Picture guidelines](#picture-guidelines)
+* [General tips](#general-tips)
+	* [Escaping characters in YAML](#escaping-characters-in-yaml)
+* [Custom dropdown menu](#custom-dropdown-menu)
+
+<!-- /code_chunk_output -->
+
+
 # TODO:
 
 - small transparent border in logo
@@ -282,9 +305,15 @@ See: https://github.com/mmistakes/minimal-mistakes/issues/1251
 # buttons
 https://mmistakes.github.io/minimal-mistakes/docs/utility-classes/#buttons
 
-# image guidelines
+# Picture guidelines
 
-For the images on the organization page, resize images to 400x450 pixels.
+The feature_row gallery rescales every image to a fixed width. To prevent overly long vertical images, crop them to an aspect ratio of 19:20 for vertical pictures.
+
+To avoid long loading times, keep size below 500 kb.
+
+Use Gimp or imagemagick.
+
+<!-- For the images on the organization page, resize images to 400x450 pixels. -->
 
 `convert daniele2.jpg -resize '800x400' -gravity center -crop '800x400+100+10' daniele2-rescaled.png`
 
