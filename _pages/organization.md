@@ -41,7 +41,8 @@ feature_row3:
 feature_row4:
   - image_path: /assets/img/people/moris.png
     alt: "Moris"
-    title: "Website coordinator: Pieter Moris"
+    title: "Pieter Moris"
+    # title: "Website coordinator: Pieter Moris"
     excerpt: 'Pieter is a PhD student at the ADReM Data Lab [@UAntwerpen](https://www.uantwerpen.be/en/staff/pieter-moris/) whose research focuses on host-pathogen interactions and machine learning.<br>Also web development apparently.'
     # url: "https://www.uantwerpen.be/en/staff/pieter-moris/"
     # btn_label: "Personal link"
@@ -49,8 +50,8 @@ feature_row4:
 feature_row5:
   - image_path: /assets/img/people/bart.jpg
     alt: "Cuypers"
-    title: "Former president (2015 - 2016): Bart Cuypers"
-    excerpt: 'The former president of RSG Belgium and current RSG Vice-Chair Europe, Bart is a PhD student at the ADReM Data Lab [@UAntwerpen](https://www.uantwerpen.be/en/staff/bart-cuypers/) and the Molecular Parasitology Unit in the [Institute of Tropical Medicine](https://pure.itg.be/en/persons/bart-cuypers(cfb799bd-5cf3-430c-a64f-b32e6e09ba45).html). As a true *Leishmaniac*, Bart combines wet-lab expertise with computational -omics wizardry.'
+    title: "Bart Cuypers"
+    excerpt: 'The former president of RSG Belgium (2015 - 2016) and current RSG Vice-Chair Europe, Bart is a PhD student at the ADReM Data Lab [@UAntwerpen](https://www.uantwerpen.be/en/staff/bart-cuypers/) and the Molecular Parasitology Unit in the [Institute of Tropical Medicine](https://pure.itg.be/en/persons/bart-cuypers(cfb799bd-5cf3-430c-a64f-b32e6e09ba45).html). As a true *Leishmaniac*, Bart combines wet-lab expertise with computational -omics wizardry.'
     # url: "https://pure.itg.be/en/persons/bart-cuypers(cfb799bd-5cf3-430c-a64f-b32e6e09ba45).html"
     # btn_label: "Personal link"
     # btn_class: "btn--primary"
@@ -83,13 +84,21 @@ Bullet-list ToC
 
 <!-- {% include toc %} -->
 
-# The Board
+# RSG Belgium team
 
 {% include feature_row id="feature_row1" type="left" %}
 
 {% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="left" %}
+
+{% include feature_row id="feature_row5" type="right" %}
+
+{% include feature_row id="feature_row6" type="left" %}
+
+# Web team
+
+{% include feature_row id="feature_row4" type="right" %}
 
 # University Representatives
 
@@ -98,16 +107,6 @@ Bullet-list ToC
 - **UHasselt**: [Joris Van Houtven](https://www.uhasselt.be/fiche?email=joris.vanhoutven)
 - **VUB & ULB**: [Sofia Papadimitriou](https://www.ulb.ac.be/rech/inventaire/chercheurs/9/CH15179.html)
 
+_(more info coming soon!)_
+
 We are always looking for new representatives across all Belgian universities. If you're interested, [please let us know](/news/looking-back-and-looking-forward/#university-representatives)!
-
----
-
-# Web team
-
-{% include feature_row id="feature_row4" type="right" %}
-
-# Former Board Members
-
-{% include feature_row id="feature_row5" type="left" %}
-
-{% include feature_row id="feature_row6" type="right" %}
