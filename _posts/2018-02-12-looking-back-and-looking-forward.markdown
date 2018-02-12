@@ -14,13 +14,13 @@ Firstly, we would like to thank everyone who participated in the meeting for the
 
 ### Board Renewal
 
-**Andrea Gazzo** is stepping down as RSG Belgium's Vice President, so on behalf of all members and the board, a big thank you for all your contributions, Andrea! 
+**Andrea Gazzo** is stepping down as RSG Belgium's Vice President, so on behalf of all members and the board, a big thank you for all your contributions, Andrea!
 
 **Nikolina Sostaric** will take over his role from now on. Congratulations Nikolina and good luck! You can learn more about Nikolina (and all the other board members too!) on our [organization page](/organization/).
 
 ### University Representatives
 
-An important new function was defined during the meeting: the **university representatives**. We aim to assign a representative for RSG Belgium to each Belgian university. Their role will consist of networking and management. We believe that by having a local spokesperson the barrier of entry for potential new members will be lowered and the communication between universities will become more efficient. Please (contact us)[/contact/] if you'd like to represent your university!
+An important new function was defined during the meeting: the **university representatives**. We aim to assign a representative for RSG Belgium to each Belgian university. Their role will consist of networking and management. We believe that by having a local spokesperson the barrier of entry for potential new members will be lowered and the communication between universities will become more efficient. Please [contact us](/contact/) if you'd like to represent your university, since we are still searching for representatives for UGent, UCL, UNamur, UMons and ULiège.
 
 ### Joining RSG Belgium in various degrees
 
@@ -54,4 +54,4 @@ Overall, we have big plans for 2018, so please stay tuned for more! As always, f
 
 All the best,
 
-Pieter Moris & the RSG Belgium board
+Pieter Moris - on behalf of the RSG executive team
