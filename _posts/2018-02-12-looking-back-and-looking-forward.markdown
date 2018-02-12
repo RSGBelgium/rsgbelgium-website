@@ -38,7 +38,7 @@ The aim is to let everyone join and become as involved as they prefer, without d
 
 Our new website has been up and running for a few months now, but there are definitely some areas left which can still be improved upon. So far we've updated our [organization page](/organization/), eased the process of [joining Slack](/slack/) and tweaked a number of aesthetic choices.
 
-There's more in store, however! For example, we are playing with the idea of creating a contribution page to thank and congratulate members for their work. A member list is also on the table, since connecting people based on their research interest is the main goal of this network, after all.
+There's more in store, however! For example, we are playing with the idea of creating a contribution page to thank and congratulate members for their work. A member list is also on the table, since connecting people based on their research interests is the main goal of this network, after all.
 
 ### Student Symposium 2018
 
