@@ -2,7 +2,7 @@
 layout: single
 title:  "Benelux Bioinformatics Conference 2017 - Leuven - 13-14 December"
 date:   2017-11-26 17:52
-categories: event
+categories: event bbc
 ---
 
 The *Benelux Bioinformatics Conference* is the key annual event that brings together researchers working at the intersection of a broad range of disciplines including computer science, biology, and medicine in Belgium, the Netherlands and Luxembourg. Don’t miss the chance to use the power of our network, join the conference by filling in the registration form on the official website [https://bbc2017blog.wordpress.com](https://bbc2017blog.wordpress.com).

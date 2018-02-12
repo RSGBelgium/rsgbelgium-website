@@ -2,7 +2,7 @@
 layout: single
 title:  "Looking back and looking forward"
 date:   2018-02-12 13:05
-categories: news
+categories: news board representatives
 toc: true
 ---
 
