@@ -24,7 +24,7 @@ feature_row1:
 feature_row2:
   - image_path: /assets/img/nikolina.jpg
     alt: "Sostaric"
-    title: "Vice-President: Nikolina Sostaric"
+    title: "Vice President: Nikolina Sostaric"
     excerpt: 'The current vice-president of RSG Belgium, Nikolina is an FWO PhD fellow in the [Computational Systems Biology lab](https://www.biw.kuleuven.be/CSB/) of prof. Vera van Noort [@KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00106894). Her research focuses on function of post-translational modifications in protein interactions.'
     # url: "https://www.kuleuven.be/wieiswie/en/person/00106894"
     # btn_label: "Personal link"
@@ -56,7 +56,7 @@ feature_row5:
 feature_row6:
   - image_path: /assets/img/andrea-rescaled.png
     alt: "Gazzo"
-    title: "Former vice-president (2016-2017): Andrea Gazzo"
+    title: "Former Vice President (2016-2017): Andrea Gazzo"
     excerpt: 'Andrea is a PhD student at the [Interuniversity Institute of Bioinformatics](http://ibsquare.be/members/andrea-gazzo) and the [Université Libre de Bruxelles](https://www.ulb.ac.be/rech/inventaire/chercheurs/7/CH15177.html).'
     # url: "https://www.ulb.ac.be/rech/inventaire/chercheurs/7/CH15177.html"
     # btn_label: "Personal link"
