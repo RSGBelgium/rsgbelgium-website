@@ -166,6 +166,9 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - assets/img/people/image-workdir
+  - deprecated
+  - assets/img/logo
 keep_files:
   - .git
   - .svn
