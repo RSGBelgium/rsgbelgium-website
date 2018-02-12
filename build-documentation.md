@@ -1,4 +1,12 @@
 # TODO:
+
+- small transparent border in logo
+- slack e-mail in navigation and slack page
+  - check if subject is filled in on windows
+- check if reverting to jekyll 3.5 allows custom masthead.html again
+- get navigation and/or toc working on organization page (https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents and https://mmistakes.github.io/minimal-mistakes/docs/overriding-theme-defaults/)
+- external links
+
 - ~web team~
 - ~reduce size of images~
 - open FB/twitter in new tab (external links https://mmistakes.github.io/minimal-mistakes/docs/docs-2-2/)
@@ -264,3 +272,42 @@ For the images on the organization page, resize images to 400x450 pixels.
 `convert sander.png -resize '400x400' -gravity east -crop '400x400+20+0' sander-rescaled.png`
 
 `convert bart.JPG -gravity Center -crop '2000x2200+0+0' bart-rescaled.png`
+
+# General tips
+
+## Escaping characters in YAML
+
+https://stackoverflow.com/questions/11301650/how-to-escape-indicator-characters-i-e-or-in-yaml
+
+https://symfony.com/doc/current/components/yaml/yaml_format.html
+
+http://docs.octoprint.org/en/master/configuration/yaml.html
+
+As simple rule of thumb, if your data contains any of these characters `:-{}[]!#|>&%@` better quote it.
+
+In double quoted strings if you need to include a literal double quote in your string you can escape it by prefixing it with a backslash \ (which you can in turn escape by itself). In single quoted strings the single quote character can be escaped by prefixing it with another single quote, basically doubling it. Backslashes in single quoted strings do not need to be escaped.
+
+```
+'A single quote '' inside a single-quoted string'
+
+"some quoted string with a : colon and a { bracket and a quote \" and a backslash \\ - phew"
+
+'some single quoted string with a single quote '' and a backslash \ - yay'
+
+"and a multiline string - just because we can we'll make it span
+  across not two but four YAML lines!
+
+  Including this paragraph. But in fact it will only be two lines :)"
+```
+
+HTML entities?
+Different YAML specs?
+
+https://stackoverflow.com/questions/32991517/how-to-escape-colons-and-other-special-characters-in-a-yaml-string
+
+# Custom dropdown menu
+
+https://github.com/mmistakes/minimal-mistakes/issues/1524
+
+
+
