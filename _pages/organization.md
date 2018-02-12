@@ -12,7 +12,7 @@ header:
   #cta_label: "Subscribe to mailing list"
   #cta_url: "https://lists.ugent.be/sympa/subscribe/rsg_belgium"
   #caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "Meet the people that keep RSG Belgium running.<br><br>***Announcement**: RSG Belgium is searching for additional candidates to represent their university in our name. Please check out [this newspost](/news/looking-back-and-looking-forward/) for more information.*"
+excerpt: "Meet the people that keep RSG Belgium running.<br><br>***Announcement**: RSG Belgium is searching for additional candidates to represent their university in our name. Please check out [this newspost](/news/looking-back-and-looking-forward/#university-representatives) for more information.*"
 feature_row1:
   - image_path: /assets/img/daniele2-rescaled.png
     alt: "Daniele"
@@ -95,7 +95,7 @@ Bullet-list ToC
 - **UHasselt**: [Joris Van Houtven](https://www.uhasselt.be/fiche?email=joris.vanhoutven)
 - **VUB & ULB**: [Sofia Papadimitriou](https://www.ulb.ac.be/rech/inventaire/chercheurs/9/CH15179.html)
 
-We are always looking for new representatives across all Belgian universities. If you're interested, [please let us know](/news/looking-back-and-looking-forward/)!
+We are always looking for new representatives across all Belgian universities. If you're interested, [please let us know](/news/looking-back-and-looking-forward/#university-representatives)!
 
 ---
 
