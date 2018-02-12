@@ -1,16 +1,16 @@
 ---
 layout: single
 title:  "Looking back and looking forward"
-date:   2018-02-12 13:05
+date:   2018-02-12 21:18
 categories: news board representatives
 toc: true
 ---
 
-RSG Belgium has held its first meeting of 2018, so we would like to take this opportunity to look back on what we have achieved on 2017, thank all the people who put in time and energy to get us where we are now, and also reveal some of our plans for the upcoming year.
+RSG Belgium has held its first meeting of 2018, so we would like to take this opportunity to look back on what we have achieved in 2017, thank all the people who put in time and energy to get us where we are now, and also reveal some of our plans for the upcoming year.
 
 ## Highlights of the first 2018 meeting
 
-Firstly, we would like to thank everyone who participated in the meeting for their enthusiasm. Over ten people showed up (resulting in a few technical difficulties due to Google Hangout's call limits), including several new faces, who were all eager to become more involved in our community.
+Firstly, we would like to thank everyone who participated in the meeting for their enthusiasm. Not only did the high turnout result in a few technical difficulties due to Google Hangout's call limits, but we were pleased to see several new faces, who were all eager to become more involved in our community.
 
 ### Board Renewal
 
@@ -24,7 +24,7 @@ An important new function was defined during the meeting: the **university repre
 
 ### Joining RSG Belgium in various degrees
 
-In line with the previous point, “_How do I join RSG?_” is one of the most frequent questions that we heard in the past year. In order to address this issue, we have developed a three-layered structure of involvement.
+“_How do I join RSG?_” is one of the most frequent questions that we heard in the past year. In order to address this issue, we have developed a three-layered structure of involvement.
 
 - The [announcement section <i class="far fa-newspaper" aria-hidden="true"></i>](/news/) of our new website and the [mailing list <i class="fas fa-envelope-open" aria-hidden="true"></i>](http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium) provide a passive method of participation, whereby you can receive periodical updates on our activities.
 - Closer participation can be achieved through our [Slack group <i class="fab fa-slack" aria-hidden="true"></i>](/slack/), which encourages both professional and social networking, as well as brainstorming on ideas and activities.
