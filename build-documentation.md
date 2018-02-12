@@ -57,6 +57,25 @@ Add condition in `_includes/masthead.html`:
 
 **NOTE**: in new version this breaks the masthead button, unless the entire `_sass` (and `_includes`?) folder are copied to the local directory. The `jekyll-data` plugin only seems to work for the `_data` folder.
 
+# Masthead external links open in new tab
+
+See: https://stackoverflow.com/questions/32359583/markdown-link-opening-in-new-tab
+and: https://stackoverflow.com/questions/8340170/jekyll-automatically-highlight-current-tab-in-menu-bar
+and: https://stackoverflow.com/questions/45003852/how-to-open-urls-in-new-tab-in-config-yml-of-jekyll-github-pages-site
+
+Add in visible-links for loop:
+
+```
+{% if link.url contains 'http' %}
+  {% assign domain = '' %}
+  {% assign newtab = 'target="_blank"' %}
+```
+
+Add newtab to a href section:
+
+`<a href="{{ domain }}{{ link.url }}" {{newtab}} {% if link.description %}title="{{ link.description }}"{% endif %}>{{ link.title }}</a>`
+
+
 # Custom CSS
 
 In `assets/css/main.scss` add:
