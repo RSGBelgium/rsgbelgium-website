@@ -33,7 +33,7 @@ feature_row:
   - #image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     #alt: "placeholder image 2"
     title: "Mission statement"
-    excerpt: "The goals and ambitions of **RSG Belgium**<br>."
+    excerpt: "The goals and ambitions of **RSG Belgium**.<br><br>"
     url: "/mission/"
     btn_label: "Read more"
     btn_class: "btn--primary"
