@@ -4,6 +4,7 @@ layout: single
 title: "The RSG Belgium team"
 permalink: /organization/
 author_profile: false
+classes: wide
 header:
  #overlay_color: "#378973"
   overlay_color: "#0d9ea5"
@@ -41,7 +42,7 @@ feature_row4:
   - image_path: /assets/img/moris-rescaled.png
     alt: "Moris"
     title: "Website coordinator: Pieter Moris"
-    excerpt: 'Pieter is a PhD student at the ADReM Data Lab [@UAntwerpen](https://www.uantwerpen.be/en/staff/pieter-moris/) whose research focuses on host-pathogen interactions and machine learning.'
+    excerpt: 'Pieter is a PhD student at the ADReM Data Lab [@UAntwerpen](https://www.uantwerpen.be/en/staff/pieter-moris/) whose research focuses on host-pathogen interactions and machine learning.<br>Also web development apparently.'
     # url: "https://www.uantwerpen.be/en/staff/pieter-moris/"
     # btn_label: "Personal link"
     # btn_class: "btn--primary"
