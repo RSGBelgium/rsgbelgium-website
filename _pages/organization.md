@@ -88,17 +88,20 @@ Bullet-list ToC
 
 {% include feature_row id="feature_row3" type="left" %}
 
-{% include feature_row id="feature_row4" type="right" %}
-
 # University Representatives
 
 - **KU Leuven**: [Sebastiaan Vanuytven](https://www.kuleuven.be/wieiswie/en/person/00116918)
 - **UAntwerpen**: [Stijn Wittouck](https://www.uantwerpen.be/nl/personeel/stijn-wittouck/)
 - **UHasselt**: [Joris Van Houtven](https://www.uhasselt.be/fiche?email=joris.vanhoutven)
 - **VUB & ULB**: [Sofia Papadimitriou](https://www.ulb.ac.be/rech/inventaire/chercheurs/9/CH15179.html)
-- **Other?**: we are always looking for new representatives across all Belgian universities. If you're interested, [please let us know](/news/looking-back-and-looking-forward/)!
+
+We are always looking for new representatives across all Belgian universities. If you're interested, [please let us know](/news/looking-back-and-looking-forward/)!
 
 ---
+
+# Web team
+
+{% include feature_row id="feature_row4" type="right" %}
 
 # Former Board Members
 
