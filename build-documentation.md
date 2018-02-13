@@ -313,13 +313,19 @@ To avoid long loading times, keep size below 500 kb.
 
 Use Gimp or imagemagick.
 
-<!-- For the images on the organization page, resize images to 400x450 pixels. -->
+Prefer jpg over png.
 
+If jpg conversion (quality >95%) is not enough, try reducing resolution as well.
+
+E.g. `convert bart2.jpg -quality 95% -resize 1500 bart2-test-1500.jpg`
+
+<!-- For the images on the organization page, resize images to 400x450 pixels. -->
+<!-- 
 `convert daniele2.jpg -resize '800x400' -gravity center -crop '800x400+100+10' daniele2-rescaled.png`
 
 `convert sander.png -resize '400x400' -gravity east -crop '400x400+20+0' sander-rescaled.png`
 
-`convert bart.JPG -gravity Center -crop '2000x2200+0+0' bart-rescaled.png`
+`convert bart.JPG -gravity Center -crop '2000x2200+0+0' bart-rescaled.png` -->
 
 # General tips
 
@@ -356,6 +362,3 @@ https://stackoverflow.com/questions/32991517/how-to-escape-colons-and-other-spec
 # Custom dropdown menu
 
 https://github.com/mmistakes/minimal-mistakes/issues/1524
-
-
-
