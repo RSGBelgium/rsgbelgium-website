@@ -20,7 +20,7 @@ Firstly, we would like to thank everyone who participated in the meeting for the
 
 ### University Representatives
 
-An important new function was defined during the meeting: the **university representatives**. We aim to assign a representative for RSG Belgium to each Belgian university. Their role will consist of networking and management. We believe that by having a local spokesperson the barrier of entry for potential new members will be lowered and the communication between universities will become more efficient. Please [contact us](/contact/) if you'd like to represent your university, since we are still searching for representatives for UGent, UCL, UNamur, UMons and ULiège.
+An important new board function was defined during the meeting: the **university representatives**. We aim to assign an RSG representative to each Belgian university. Their role will consist of networking and management. We believe that by having a local spokesperson the barrier of entry for potential new members will be lowered and the communication between universities will become more efficient. Please [contact us](/contact/) if you'd like to represent your university, since we are still searching for representatives for UGent, UCL, UNamur, UMons and ULiège.
 
 ### Joining RSG Belgium in various degrees
 
