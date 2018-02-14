@@ -69,7 +69,7 @@ feature_row_kul_seb:
     title: "KU Leuven: Sebastiaan Vanuytven"
     excerpt: 'Sebastiaan is the current representative for the [KU Leuven]((https://www.kuleuven.be/wieiswie/en/person/00116918), where he is a PhD student in the lab of Reproductive Genomics. His research focusses on the role of cellular heterogeneity in breast cancer. He is also affiliated with the Cancer Genomics Lab at the Francis Crick Institute (UK).'
 feature_row_ua_stijn:
-  - image_path: /assets/img/people/stijn.jpg
+  - image_path: /assets/img/people/stijn.png
     alt: "Stijn Wittouck"
     title: "UAntwerpen: Stijn Wittouck"
     excerpt: "Stijn is a PhD student in the [lab of applied microbiology](https://www.uantwerpen.be/en/research-groups/endemic/research/laboratories/lab-of-applied-micro/) at the UAntwerpen. There, he studies the evolution and niche adaptation of *Lactobacillus* bacteria using comparative genomic and phylogenetic approaches. In addition, he's doing a joint PhD with the KU Leuven, where he is affiliated with the [computational systems biology group](https://www.biw.kuleuven.be/CSB/). He is very passionate about learning as well as teaching new bioinformatics skills. In his spare time, he occasionally plays the drums."
