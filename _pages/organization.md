@@ -72,7 +72,7 @@ feature_row_ua_stijn:
   - image_path: /assets/img/people/stijn.jpg
     alt: "Stijn Wittouck"
     title: "UAntwerpen: Stijn Wittouck"
-    excerpt: 'Stijn is a PhD student in the [lab of applied microbiology](https://www.uantwerpen.be/en/research-groups/endemic/research/laboratories/lab-of-applied-micro/) at the UAntwerpen. There, he studies the evolution and niche adaptation of *Lactobacillus* bacteria using comparative genomic and phylogenetic approaches. In addition, he's doing a joint PhD with the KU Leuven, where he is affiliated with the [computational systems biology group](https://www.biw.kuleuven.be/CSB/). He is very passionate about learning as well as teaching new bioinformatics skills. In his spare time, he occasionally plays the drums.'
+    excerpt: "Stijn is a PhD student in the [lab of applied microbiology](https://www.uantwerpen.be/en/research-groups/endemic/research/laboratories/lab-of-applied-micro/) at the UAntwerpen. There, he studies the evolution and niche adaptation of *Lactobacillus* bacteria using comparative genomic and phylogenetic approaches. In addition, he's doing a joint PhD with the KU Leuven, where he is affiliated with the [computational systems biology group](https://www.biw.kuleuven.be/CSB/). He is very passionate about learning as well as teaching new bioinformatics skills. In his spare time, he occasionally plays the drums."
 feature_row_uh_joris:
   - image_path: /assets/img/people/joris.jpg
     alt: "Joris Van Houtven"
