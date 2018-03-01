@@ -83,7 +83,11 @@ feature_row_ulb_sofia:
     alt: "Sofia Papadimitriou"
     title: "VUB & ULB: Sofia Papadimitriou"
     excerpt: 'Sofia is a PhD student at the [Interuniversity Institute of Bioinformatics](https://www.ulb.ac.be/rech/inventaire/chercheurs/9/CH15179.html) in Brussels, a research collaboration between Université Libre de Bruxelles and Vrije Universiteit Brussel. Her research focuses on the development of clinical predictive tools for oligogenic diseases, specialising in neurodevelopmental disorders. She is also a classical guitar player and occasional writer (yes, not only papers).'
-
+feature_row_ugent_arthur:
+  - image_path: /assets/img/people/arthur.jpg
+    alt: "Arthur Zwaenepoel"
+    title: "UGent: Arthur Zwaenepoel"
+    excerpt: 'Arthur Zwaenepoel is a PhD student in the [Bioinformatics & Evolutionary Genomics group](http://bioinformatics.psb.ugent.be/beg/people/arzwa) of Prof. Yves Van de Peer at the VIB/UGent Center for Plant Systems Biology. His research focuses on the evolutionary significance of ancient whole genome duplications in plants, where he uses theoretical modeling approaches as well as phylogenomics and comparative genomics to unravel the complicated history of polyploidy in plants. Besides his commitment as a computational evolutionary biologist, he is also a dedicated musician and philosophy enthusiast.'
 sidebar:
   nav: "organization"
 # toc: true
@@ -134,6 +138,8 @@ Bullet-list ToC
 {% include feature_row id="feature_row_ulb_sofia" type="left" %}
 
 {% include feature_row id="feature_row_ua_stijn" type="right" %}
+
+{% include feature_row id="feature_row_ugent_arthur" type="left" %}
 
 <!-- - **KU Leuven**: [Sebastiaan Vanuytven](https://www.kuleuven.be/wieiswie/en/person/00116918)
 - **UAntwerpen**: [Stijn Wittouck](https://www.uantwerpen.be/nl/personeel/stijn-wittouck/)
