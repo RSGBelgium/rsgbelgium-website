@@ -1,0 +1,41 @@
+---
+layout: single
+title:  "Fourth Bioinformatics Student Symposium - 22/05/2018 - Antwerp"
+date:   2019-01-01 13:00
+categories: event student-symposium
+---
+
+Dear colleagues,
+
+RSG Belgium, the regional student group of the International Society for Computational Biology kindly invites you to the fourth edition of the Bioinformatics Student Symposium, organized in collaboration with [biomina][biomina]. The main goal of this event is providing a forum for young researchers in bioinformatics to present their work and network with peers. Our keynote speaker is [Prof. dr. Kris Laukens of Adrem data lab][krislaukens]. Prof. Laukens is the founder of the biomina research network and specializes in the use and development of data mining techniques to adress medical and biological problems.
+
+## Mark the date: 
+Tuesday, the 22nd of May 2018
+
+## Location:
+Room C101, city campus UAntwerpen, Antwerp.
+
+## Registration (deadline 11th of May):
+Registration is free but mandatory. Please register before the 11th of May with the following [google form][form].
+
+## Abstract call (deadline 1st of May)
+You can submit an abstract for oral or poster presentations. Eight abstracts will be selected for oral presentations. Please include your abstract in the [google form][form].
+
+## Program
+12.30: Registration
+
+13.00: Opening remarks
+
+13.10: Keynote
+
+14.00: Student talks
+
+15.20: Coffee break with poster session
+
+16.00: Student talks
+
+17.20: Closing remarks
+
+[biomina]: http://www.biomina.be/
+[krislaukens]: https://www.uantwerpen.be/en/staff/kris-laukens/
+[form]: https://goo.gl/forms/ETpVY2j1sRYSSjRD3
