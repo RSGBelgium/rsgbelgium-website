@@ -24,7 +24,7 @@ Registration is free but mandatory. Please register before the 11th of May with 
 You can submit an abstract for oral or poster presentations. Eight abstracts will be selected for oral presentations. Please include your abstract in the [google form][form].
 
 ## Social dinner
-After the symposium we will go to a local restaurant for the social dinner.
+After the symposium we will go to a restaurant [Verona][verona] in the city center, near the cathedral for the social dinner.
 
 ## Program
 12.30: Registration
@@ -45,9 +45,11 @@ After the symposium we will go to a local restaurant for the social dinner.
 
 17.40: Networking session with drinks
 
-18.10: Depart for social dinner
+18.00: Depart for social dinner
 
 
 [biomina]: http://www.biomina.be/
 [krislaukens]: https://www.uantwerpen.be/en/staff/kris-laukens/
 [form]: https://goo.gl/forms/ETpVY2j1sRYSSjRD3
+[verona]: https://www.restaurant-verona.be/
+
