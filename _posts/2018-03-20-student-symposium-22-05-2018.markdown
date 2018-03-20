@@ -7,6 +7,7 @@ toc: true
 ---
 
 Dear colleagues,
+
 RSG Belgium, the regional student group of the International Society for Computational Biology kindly invites you to the fourth edition of the Bioinformatics Student Symposium, organized in collaboration with <a href="http://www.biomina.be"><span style="font-family: &quot;Bauhaus 93&quot;; color: #a0bf35; font-weight: normal; vertical-align: baseline;font-size:100%">bio</span><span style="font-family: &quot;Bauhaus 93&quot;; color: #5f7791; font-weight: normal; vertical-align: baseline;font-size:100%">min</span><span style="font-family: &quot;Bauhaus 93&quot;; color: #af0039; font-weight: normal; vertical-align: baseline;font-size:100%">a</span></a>.
 
 The main goal of this event is providing a forum for young researchers and students in bioinformatics to present their work and network with peers.
