@@ -1,55 +1,57 @@
 ---
 layout: single
-title:  "Fourth Bioinformatics Student Symposium - 22/05/2018 - Antwerp"
+title:  "Bioinformatics Student Symposium - 22/05/2018 - Antwerp"
 date:   2018-03-20 13:00
 categories: event student-symposium
+toc: true
 ---
 
 Dear colleagues,
+RSG Belgium, the regional student group of the International Society for Computational Biology kindly invites you to the fourth edition of the Bioinformatics Student Symposium, organized in collaboration with <a href="http://www.biomina.be"><span style="font-family: &quot;Bauhaus 93&quot;; color: #a0bf35; font-weight: normal; vertical-align: baseline;font-size:100%">bio</span><span style="font-family: &quot;Bauhaus 93&quot;; color: #5f7791; font-weight: normal; vertical-align: baseline;font-size:100%">min</span><span style="font-family: &quot;Bauhaus 93&quot;; color: #af0039; font-weight: normal; vertical-align: baseline;font-size:100%">a</span></a>.
 
-RSG Belgium, the regional student group of the International Society for Computational Biology kindly invites you to the fourth edition of the Bioinformatics Student Symposium, organized in collaboration with [biomina][biomina]. The main goal of this event is providing a forum for young researchers in bioinformatics to present their work and network with peers. Our keynote speaker is [Prof. dr. Kris Laukens of Adrem data lab][krislaukens]. Prof. Laukens is the founder of the biomina research network and specializes in the use and development of data mining techniques to adress medical and biological problems.
+The main goal of this event is providing a forum for young researchers and students in bioinformatics to present their work and network with peers.
+
+Our keynote speaker is [Prof. dr. Kris Laukens][krislaukens] of the Antwerp University. Prof. Laukens is a bioinformatics researcher in the Adrem Data Lab and the founder of the biomina research network. He specializes in the use and development of data mining technologies for big molecular data in order to address medical and biological problems. His two core research areas are biomolecular pattern discovery and biological networks.
 
 ## Mark the date
-Tuesday, the 22nd of May 2018
+
+**Tuesday, the 22nd of May 2018**
 
 ## Location
-Room C101, City campus University of Antwerp.
 
+Room C101 - City Campus University of Antwerp,
 Prinsstraat 13, 2000 Antwerp.
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3533.889170065036!2d4.412807736335474!3d51.22207838842954!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e2!4m5!1s0x47c3f703e7404c69%3A0x270b07bbe1f68aa6!2sAntwerpen-Centraal%2C+Antwerp!3m2!1d51.217191799999995!2d4.4212529!4m5!1s0x47c3f6566cd25cc1%3A0x9ece4584afb0cd6d!2sUAntwerpen+-+Building+C+-+City+Campus%2C+Prinsstraat+13%2C+2000+Antwerpen!3m2!1d51.2234817!2d4.4101775!5e0!3m2!1sen!2sbe!4v1521550821427" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 ## Registration (deadline 14th of May)
-Registration is free but mandatory. Please register before the 14th of May through the [google form][form].
+
+Registration is free, but mandatory. Please register **before the 14th of May** through the [google form][form].
 
 ## Abstract call (deadline 20th of April)
-You can submit an abstract for oral or poster presentations. Eight abstracts will be selected for oral presentations. Please include your abstract in the [google form][form].
+
+You can submit an abstract for oral or poster presentations. Eight abstracts will be selected for oral presentations. Please include your abstract in the [google form][form] before the **20th of April**.
 
 ## Social dinner
-After the symposium we will go to the restaurant [Verona][verona] in the city center, near the cathedral for the social dinner.
 
-## Program
-12.30: Registration
+After the symposium we will go to the restaurant [Verona][verona] in the city center, near the cathedral, for the social dinner.
 
-13.00: Opening remarks
+## Preliminary program
 
-13.10: Keynote
+* 12.30: Registration
+* 13.00: Opening remarks
+* 13.10: Keynote
+* 14.00: Student talks
+* 15.20: Poster flash presentations
+* 15.30: Coffee break with poster session
+* 16.10: Student talks
+* 17.30: Closing remarks
+* 17.40: Networking session with drinks
+* 18.00: Depart for social dinner
 
-14.00: Student talks
-
-15.20: Flash presentations
-
-15.30: Coffee break with poster session
-
-16.10: Student talks
-
-17.30: Closing remarks 
-
-17.40: Networking session with drinks
-
-18.00: Depart for social dinner
-
+**We look forward to seeing you there!**
 
 [biomina]: http://www.biomina.be/
 [krislaukens]: https://www.uantwerpen.be/en/staff/kris-laukens/
 [form]: https://goo.gl/forms/ETpVY2j1sRYSSjRD3
 [verona]: https://www.restaurant-verona.be/
-
