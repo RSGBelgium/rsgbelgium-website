@@ -8,6 +8,8 @@ toc: true
 
 RSG Belgium, the regional student group of the International Society for Computational Biology kindly invites you to the first Bioinformatics Student Symposium of 2018, organized in collaboration with [biomina][biomina].
 
+[Click here for a flyer of the event.](assets/pdf/poster_rsg_symposium-22-05-18.pdf)
+
 The main goal of this event is providing a forum for young researchers and students in bioinformatics to present their work and network with peers.
 
 Our keynote speaker is [Prof. dr. Kris Laukens][krislaukens] of the Antwerp University. Prof. Laukens is a bioinformatics researcher in the Adrem Data Lab and the founder of the biomina research network. He specializes in the use and development of data mining technologies for big molecular data in order to address medical and biological problems. His two core research areas are biomolecular pattern discovery and biological networks.
@@ -49,6 +51,10 @@ After the symposium we will go to the restaurant [Verona][verona] in the city ce
 * 18.00: Depart for social dinner
 
 **We look forward to seeing you there!**
+
+## Flyer
+
+[![full](/assets/img/poster_rsg_symposium-22-05-18.png){: .center}]({{ site.url }}/assets/pdf/poster_rsg_symposium-22-05-18.pdf)
 
 [biomina]: http://www.biomina.be/
 [krislaukens]: https://www.uantwerpen.be/en/staff/kris-laukens/

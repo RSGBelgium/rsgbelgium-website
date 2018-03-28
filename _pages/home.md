@@ -7,8 +7,10 @@ header:
   overlay_color: "#0d9ea5"
   overlay_filter: "0.4"
   overlay_image: /assets/img/RSGlogoBelgium-banner-notext.png
-  cta_label: "Subscribe to our mailing list"
-  cta_url: "http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium"
+  cta_label: "We will be hosting the RSG Belgium Student Symposium on 22 May 2018"
+  cta_url: "/event/student-symposium/student-symposium-22-05-2018/"
+# cta_label: "Subscribe to our mailing list"
+  # cta_url: "http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "RSG Belgium provides a network for young computational biology and bioinformatics students and researchers in Belgium."
 # <br/><br/>To stay informed about our activities, head over to our events page, social media accounts or mailing list."
@@ -39,6 +41,12 @@ feature_row:
     btn_class: "btn--primary"
 feature_row_posts:
     title: "Recent posts"
+---
+
+# [RSG Belgium Student Symposium - May 22, 2018 - University of Antwerp](/event/student-symposium/student-symposium-22-05-2018/)
+
+[![full](/assets/img/poster_rsg_symposium-22-05-18.png){: .center}](/event/student-symposium/student-symposium-22-05-2018/)
+
 ---
 
 {% include feature_row id="intro" type="center" %}
