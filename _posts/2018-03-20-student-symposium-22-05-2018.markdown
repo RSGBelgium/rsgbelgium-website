@@ -8,7 +8,7 @@ toc: true
 
 RSG Belgium, the regional student group of the International Society for Computational Biology kindly invites you to the first Bioinformatics Student Symposium of 2018, organized in collaboration with [biomina][biomina].
 
-[Click here for a flyer of the event.](assets/pdf/poster_rsg_symposium-22-05-18.pdf)
+<!-- [Click here for a flyer of the event.](assets/pdf/poster_rsg_symposium-22-05-18.pdf) -->
 
 The main goal of this event is providing a forum for young researchers and students in bioinformatics to present their work and network with peers.
 
