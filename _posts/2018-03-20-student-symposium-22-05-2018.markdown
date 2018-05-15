@@ -46,15 +46,40 @@ After the symposium we will go to the restaurant [Verona][verona] in the city ce
 * 15.20: Poster flash presentations
 * 15.30: Coffee break with poster session
 * 16.10: Student talks
+* 17:
 * 17.30: Closing remarks
 * 17.40: Networking session with drinks
 * 18.00: Depart for social dinner
+
+## Schedule
+
+* 12:30 Registration
+* 13:00 Opening remarks
+* 13:10 Keynote by [Kris Laukens (UAntwerp)](krislaukens)
+* 14:00: Tour of RSG Belgium
+* 14:20 1<sup>st</sup> student talks session
+* 15:00: Coffee break with poster session
+* 15:50: 2<sup>nd</sup> student talks session
+* 17:30: Closing remarks
+* 17:35: Networking session with drinks
+* 18:30: Dinner at [Verona][verona]
+
+|Time|Speaker|Affiliation|Topic|
+|---|---|---|---|
+|14:20|Mohamed Mysara|Belgian Nuclear Research Centre|Bioinformatics analysis of complex DNA-sequencing data to assess microbial community in diverse industrial and clinical samples|
+|14:40|Jorge Roel|Utrecht University|Less is more: Coarse-grained protein-protein docking in HADDOCK|
+||||
+|15:50|Vincent Hahaut|ULiège|NGS-based analysis of clonal distribution in Deltaretrovirus induced leukemia|
+|16:10|Wannes Van Beeck|UAntwerpen|Exploring niche specificity of lactic acid bacteria in fermented carrots as a model ecosystem|
+|16:30|Cunliang Geng|Utrecht University|iSEE: Interface Structure, Evolution and Energy-based random forest predictor of binding affinity changes upon mutations|
+|16:50|Sebastiaan Vanuytven|KU Leuven|Single-cell multi-omics sequencing to understand the nature, extent and biology of cellular heterogeneity in breast cancer|
+|17:10|Sander Wuyts|UAntwerpen|From DNA to Bitcoin|
 
 **We look forward to seeing you there!**
 
 ## Flyer
 
-[![full](/assets/img/poster_rsg_symposium-22-05-18.png){: .center}]({{ site.url }}/assets/pdf/poster_rsg_symposium-22-05-18.pdf)
+[![full](/assets/img/poster_rsg_symposium-22-05-18.png){: .center}]({{ site.baseurl }}/assets/pdf/poster_rsg_symposium-22-05-18.pdf)
 
 [biomina]: http://www.biomina.be/
 [krislaukens]: https://www.uantwerpen.be/en/staff/kris-laukens/
