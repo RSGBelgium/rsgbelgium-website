@@ -54,7 +54,7 @@ After the symposium we will go to the restaurant [Verona][verona] in the city ce
 |---|---|---|---|
 |14:20|Mohamed Mysara|Belgian Nuclear Research Centre|Bioinformatics analysis of complex DNA-sequencing data to assess microbial community in diverse industrial and clinical samples|
 |14:40|Jorge Roel|Utrecht University|Less is more: Coarse-grained protein-protein docking in HADDOCK|
-||||
+|15:00|||Coffee break and poster session|
 |15:50|Vincent Hahaut|ULiège|NGS-based analysis of clonal distribution in Deltaretrovirus induced leukemia|
 |16:10|Wannes Van Beeck|UAntwerpen|Exploring niche specificity of lactic acid bacteria in fermented carrots as a model ecosystem|
 |16:30|Cunliang Geng|Utrecht University|iSEE: Interface Structure, Evolution and Energy-based random forest predictor of binding affinity changes upon mutations|
