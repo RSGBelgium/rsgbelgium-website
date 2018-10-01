@@ -6,14 +6,13 @@ header:
   #overlay_color: "#378973"
   overlay_color: "#0d9ea5"
   overlay_filter: "0.4"
-  overlay_image:  /assets/img/RSGlogoBelgium-banner-notext.png
-  # cta_label: "We will be hosting the RSG Belgium Student Symposium on 22 May 2018"
-  # cta_url: "/event/student-symposium/student-symposium-22-05-2018/"
-  cta_label: "Subscribe to our mailing list"
-  cta_url: "http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium"
+  overlay_image: /assets/img/RSGlogoBelgium-banner-notext.png
+  cta_label: "Come have a chat on Slack <i class=\"fab fa-slack\" aria-hidden=\"true\"></i>"
+  cta_url: "/slack/"
+  cta_label2: "Subscribe to our mailing list <i class=\"fas fa-envelope-open\" aria-hidden=\"true\"></i>"
+  cta_url2: "http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "RSG Belgium provides a network for young computational biology and bioinformatics students and researchers in Belgium."
-# <br/><br/>To stay informed about our activities, head over to our events page, social media accounts or mailing list."
+excerpt: "RSG Belgium provides a network for young computational biology and bioinformatics students and researchers in Belgium.<br/><br/>To stay informed about our activities, head over to our events page, follow us on social media pages or..."
 intro:
   - excerpt: 'Welcome to the homepage of **RSG Belgium**, the Belgian branch of the <br>**ISCB Student Council''s Regional Student Groups**.<br><br>If you are interested in joining our network or if you just want to stay up to date on the latest RSG Belgium news, please check out our <br>announcements and upcoming activities in the [news section <i class="far fa-newspaper" aria-hidden="true"></i>](/news/), <br>follow our social media accounts [Twitter <i class="fab fa-twitter" aria-hidden="true"></i>](https://twitter.com/rsgbelgium){:target="_blank"} & [Facebook <i class="fab fa-facebook" aria-hidden="true"></i>](https://www.facebook.com/RSGBelgium){:target="_blank"}, <br>come and have a chat on our [Slack channel <i class="fab fa-slack" aria-hidden="true"></i>](/slack/) <br>or subscribe to the [mailing list <i class="fas fa-envelope-open" aria-hidden="true"></i>](http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium).<br><br>We hope to see you at one of our upcoming events!'
 #[Slack channel <i class="fab fa-slack" aria-hidden="true"></i>](mailto:rsg-belgium@iscbsc.org?Subject=RSG%20Slack%20Subscription&Body=I%20would%20like%20to%20join%20the%20RSG%20Belgium%20Slack%20channel%2E
@@ -41,13 +40,6 @@ feature_row:
     btn_class: "btn--primary"
 feature_row_posts:
     title: "Recent posts"
----
-
-# [RSG Belgium Hackathon - November 16, 2018 - Université Libre de Bruxelles](/news/event/hackathon/first-hackathon/)
-
-{:.center}
-[![flyer](/assets/img/hackathon.png){:width="550px"}](/news/event/hackathon/first-hackathon/)
-
 ---
 
 {% include feature_row id="intro" type="center" %}
