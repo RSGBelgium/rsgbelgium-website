@@ -9,8 +9,10 @@ header:
   overlay_image:  /assets/img/RSGlogoBelgium-banner-notext.png
   # cta_label: "We will be hosting the RSG Belgium Student Symposium on 22 May 2018"
   # cta_url: "/event/student-symposium/student-symposium-22-05-2018/"
-  cta_label: "Subscribe to our mailing list"
-  cta_url: "http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium"
+  cta_label: "Come have a chat on Slack <i class=\"fab fa-slack\" aria-hidden=\"true\"></i>"
+  cta_url: "/slack/"
+  cta_label2: "Subscribe to our mailing list <i class=\"fas fa-envelope-open\" aria-hidden=\"true\"></i>"
+  cta_url2: "http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "RSG Belgium provides a network for young computational biology and bioinformatics students and researchers in Belgium."
 # <br/><br/>To stay informed about our activities, head over to our events page, social media accounts or mailing list."
