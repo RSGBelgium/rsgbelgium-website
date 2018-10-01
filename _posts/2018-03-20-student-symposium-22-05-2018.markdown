@@ -41,14 +41,14 @@ After the symposium we will go to the restaurant [Verona][verona] in the city ce
 
 * 12:30 Registration
 * 13:00 Opening remarks
-* 13:10 Keynote by [Kris Laukens (UAntwerp)](krislaukens): Hacking the molecular networks of life, from in vitro to in silico
-* 14:00: Tour of RSG Belgium
+* 13:10 Keynote by [Kris Laukens (UAntwerp)](krislaukens): Hacking the molecular networks of life, from _in vitro_ to _in silico_
+* 14:00 Tour of RSG Belgium
 * 14:20 1<sup>st</sup> student talks session
-* 15:00: Coffee break with poster session
-* 15:50: 2<sup>nd</sup> student talks session
-* 17:30: Closing remarks
-* 17:35: Networking session with drinks
-* 18:30: Dinner at [Verona][verona]
+* 15:00 Coffee break with poster session
+* 15:50 2<sup>nd</sup> student talks session
+* 17:30 Closing remarks
+* 17:35 Networking session with drinks
+* 18:30 Dinner at [Verona][verona]
 
 #### Talks
 
