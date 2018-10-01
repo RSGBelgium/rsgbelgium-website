@@ -6,13 +6,13 @@ categories: news event hackathon
 toc: true
 ---
 
-RSG Belgium is excited to announce the first RSG Belgium Hackathon, which will take place in Brussels on 16th of November.
+RSG Belgium is excited to announce the first RSG Belgium Hackathon, which will take place in Brussels on the 16th of November 2018.
 
 This event represents a good opportunity for MSc/PhD students from all scientific backgrounds to improve their problem solving, teamwork and coding skills by working together as a multidisciplinary team.
 
 [![full](/assets/img/hackathon.png){: .center}]({{ site.baseurl }}/assets/img/hackathon.png)
 
-You can read about the four different projects selected by the RSG Belgium team on the  registration form, and express your preference. The most highly voted ones will be selected to be part of the hackathon.
+You can read about the four different projects selected by the RSG Belgium team on the registration form below. The most highly voted ones will be selected to be part of the hackathon.
 
 Do not hesitate, [register here now!](
 https://docs.google.com/forms/d/e/1FAIpQLSdmv3Jroj1m0e_Edk2oCgLktZttmIp686XvjVzvgtf6qhvLwQ/viewform)
