@@ -2,7 +2,7 @@
 
 ## Creating posts or announcements
 
-Each post consists of a markdown file in the `_posts` directory. Each post should include a front matter:
+Each post consists of a markdown file in the `_posts` directory. Each post should include a front matter similar to this:
 ```
 ---
 layout: single
@@ -16,11 +16,17 @@ For more information on how posts work, refer to the documentation of the Minima
 
 ## Updating the website
 
-To install all the Jekyll and Ruby requirements needed for building the site, see the theme's documentation [https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) or the Jekyll docs [https://jekyllrb.com/docs/quickstart/](https://jekyllrb.com/docs/quickstart/)
+To install all the Jekyll and Ruby requirements needed for building the site, see the theme's documentation [https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) or the Jekyll docs [https://jekyllrb.com/docs/quickstart/](https://jekyllrb.com/docs/quickstart/).
 
-The site can be checked locally by using the `bundle exec jekyll serve` command.
+A very brief overview is:
 
-Use `bundle exec jekyll build` to create an updated version of the site ready for deployment. The resulting `_site` directory should be pushed to the `rsg-belgium.iscbsc.org​` domain.
+1. Install a recent version of ruby. The easiest way is probably to install [`rbenv`](https://github.com/rbenv/rbenv) to install version 2.5.0.
+2. Install `bundler` via: `gem install bundler`.
+3. Install all Jekyll dependencies for the website by running `bundle install` inside the main directory (where the `Gemfile` is located).
+
+The site can then be viewed locally by using the `bundle exec jekyll serve` command and navigating to the local server.
+
+Use `bundle exec jekyll build` to create an updated version of the site ready for deployment. The resulting `_site` directory should be copied in its entirety to the `rsg-belgium.iscbsc.org​` domain.
 
 Example work flow:
 
