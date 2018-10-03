@@ -14,14 +14,15 @@ This event represents a good opportunity for MSc/PhD students from all scientifi
 
 The RSG Belgium team has chosen four different projects to chose from, which are described [below](#projects). We ask you to already indicate your preference during registration. This is not binding, but it gives us a way to gauge interest.
 
-Do not hesitate, [register here now!](
-https://docs.google.com/forms/d/e/1FAIpQLSdmv3Jroj1m0e_Edk2oCgLktZttmIp686XvjVzvgtf6qhvLwQ/viewform)
+## Do not hesitate, [register now!](https://docs.google.com/forms/d/e/1FAIpQLSdmv3Jroj1m0e_Edk2oCgLktZttmIp686XvjVzvgtf6qhvLwQ/viewform)
 
 ## Where and when?
 
+- Registration deadline: 27 October 2018
 - Date and time: 16/11/2018, 09:00 until 18:00
 - Place: Université Libre de Bruxelles, La Plaine Campus, Building NO, 9th floor, room: 2NO906 ("Salle des professeurs"), Brussels, Belgium
-- Registration deadline: 27 October 2018
+
+**More information on how to get there is provided [below](#how-to-get-there).**
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4363.244626829035!2d4.3951958277813965!3d50.82110086482844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xdce9335a43c9dfb5!2sBatiment+NO!5e0!3m2!1sen!2sbe!4v1538399705300" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -42,3 +43,45 @@ Keeping track of the research or available datasets in your field is always a ch
 ### Generating an AI-written bioinformatics paper
 
 There have been many examples of AI-generated papers, mostly in the domain of computer science. In this project we will generate such an AI-written bioinformatics paper using for example Markov chains or recurrent neural networks. Tasks involve the generation of text and graphics, the collection of relevant examples, etc.
+
+
+## How to get there?
+
+In general, the university is accessible by metro, bus and train. Specific signs for the hackathon will be available at the main bus and metro stops outside the university to guide you.
+
+Please also consult the following map of the ULB Campus de la plaine to guide you to the NO Building.
+
+![full](/assets/img/hackathon-LaPlaineMap.png)
+
+### Access from the Bruxelles-Central train station
+
+From the Brussels Central station the university is accessible either by metro or bus.
+
+- Metro: You follow the metro signs inside the station. You take the metro line 5 towards “Herrmann-Debroux” and you take off at the station “Delta”. There, you follow the exit with the “ULB” sign. The building NO is within 4 minutes walking distance. Estimated total time: 20 minutes. 
+- Bus: You take the line 71, whose stop is just next to the main entrance of the train station, towards “Delta”. You take off at the stop “Fraiteur” and you pass at the other side of the road, towards the university Entrance 2. The building NO is within 2 minutes walking distance. Estimated total time: 30 minutes.
+
+### Access from the Bruxelles-Midi (Brussel-Zuid) train station
+
+You can follow the metro signs inside the Bruxelles-Midi station. You can take either the metro line 2 or line 6 towards “Elisabeth” and you stop at the metro station “Art-Loi (Kunst-Wet)”. There, you change for the metro line 5 towards “Herrmann-Debroux” and you take off at the station “Delta”. At the station you follow the exit with the “ULB” sign. The building NO is within 4 minutes walking distance.
+
+Estimated total time: 25 minutes.
+
+### Access from the train station Etterbeek (Etterbeek Gare)
+
+From the train station Etterbeek the university is reachable within walking distance. Walking out of the station you follow the Boulevard Général Jacques on the right and then you turn right at the Boulevard de la Plaine. After walking around 600 m, you can find the Access 2 of ULB on your left.
+
+Estimated total time: 13 minutes.
+
+### Access from the train station Delta
+
+At the station, you follow the exit with the “ULB” sign. The building NO is within 4 minutes walking distance.
+
+### General access with bus or tram
+
+In general, the university is reachable with the bus line 71 (direction “Delta”, stop at “Fraiteur”), bus line 72 (direction “ULB”, stop at “Fraiteur”).
+
+The closest tram stop is for the tram line 95 (direction “Wiener”, stop at “Thys”).
+
+### General access with metro
+
+ULB is reachable with the metro line 5 (direction “Herrmann-Debroux”, metro station “Delta”). There, you follow the exit with the “ULB” sign. The building NO is within 4 minutes walking distance.
