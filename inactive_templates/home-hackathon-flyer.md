@@ -45,6 +45,13 @@ feature_row_posts:
     title: "Recent posts"
 ---
 
+# [RSG Belgium Hackathon - November 16, 2018 - Université Libre de Bruxelles](/news/event/hackathon/first-hackathon/)
+
+{:.center}
+[![flyer](/assets/img/hackathon.png){:width="550px"}](/news/event/hackathon/first-hackathon/)
+
+---
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}

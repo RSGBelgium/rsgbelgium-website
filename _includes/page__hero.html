@@ -10,6 +10,12 @@
   {% capture cta_path %}{{ page.header.cta_url | absolute_url }}{% endcapture %}
 {% endif %}
 
+{% if page.header.cta_url2 contains "://" %}
+  {% capture cta_path2 %}{{ page.header.cta_url2 }}{% endcapture %}
+{% else %}
+  {% capture cta_path2 %}{{ page.header.cta_url2 | absolute_url }}{% endcapture %}
+{% endif %}
+
 {% if page.header.overlay_image contains "://" %}
   {% capture overlay_img_path %}{{ page.header.overlay_image }}{% endcapture %}
 {% elsif page.header.overlay_image %}
