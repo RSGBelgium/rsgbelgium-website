@@ -34,21 +34,21 @@ After the symposium we will go to the restaurant [Nieuwetijd][resto] in the city
 
 ## Schedule
 
-* 12.30 - 13.00: Registration
-* 13.00 - 13.10: Opening remarks
-* 13.10 - 14.00: Keynote - [Prof. Dr. Stein Aerts][aerts]
-* 14.00 - 14.20: Tour of RSG Belgium
-* 14.20 - 14.40: PhD/Master student talk 1
-* 14.40 - 15.00: PhD/Master student talk 2
-* 15.00 - 15:50: Coffee break and poster session
-* 15.50 - 16.10: PhD talk 3
-* 16.10 - 16.30: PhD talk 4
-* 16.30 - 16.50: PhD talk 5
-* 16.50 - 17.10: PhD talk 6
-* 17.10 - 17.30: PhD talk 7
-* 17.30 - 17.35: Closing remarks
-* 17.35 - 18.30: Networking session with drinks
-* 19.00: Social dinner at [Nieuwetijd][resto]
+| 12.30 - 13.00 | Registration                             |
+| 13.00 - 13.10 | Opening remarks                          |
+| 13.10 - 14.00 | Keynote - [Prof. Dr. Stein Aerts][aerts] |
+| 14.00 - 14.20 | Tour of RSG Belgium                      |
+| 14.20 - 14.40 | PhD/Master student talk 1                |
+| 14.40 - 15.00 | PhD/Master student talk 2                |
+| 15.00 - 15:50 | Coffee break and poster session          |
+| 15.50 - 16.10 | PhD talk 3                               |
+| 16.10 - 16.30 | PhD talk 4                               |
+| 16.30 - 16.50 | PhD talk 5                               |
+| 16.50 - 17.10 | PhD talk 6                               |
+| 17.10 - 17.30 | PhD talk 7                               |
+| 17.30 - 17.35 | Closing remarks                          |
+| 17.35 - 18.30 | Networking session with drinks           |
+| 19.00         | Social dinner at [Nieuwetijd][resto]     |
 
 **We look forward to seeing you there!**
 
