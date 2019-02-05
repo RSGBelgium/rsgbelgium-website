@@ -3,6 +3,7 @@ layout: single
 title: "Bioinformatics Student Day - 03/05/2019 - Brussels"
 date: 2019-02-01 16:20
 categories: event student-symposium
+toc: true
 ---
 
 RSG Belgium, the regional student group of the International Society for Computational Biology, kindly invites you to the 2019 Bioinformatics Student Symposium. The main goal of this event is to provide a forum for young researchers and students in bioinformatics where they can present their work, get updated about current research topics and network with their peers.
@@ -11,10 +12,7 @@ This year the symposium will take place on Friday 03/05/2019 at the Arenberg Cas
 
 Our keynote speaker is Prof. Dr. Ir. Stein Aerts of the KU Leuven. Stein Aerts is a professor at the Faculty of Medicine of KU Leuven and the head of the [Laboratory of Computational Biology][aerts] (VIB-KU Leuven Center for Brain & Disease Research). His research topics are bioinformatics, single-cell and microfluidics technologies, regulatory genomics and gene regulatory networks, machine learning, _Drosophila_ genomics and regulatory heterogeneity in cancer.
 
-
-## Mark the date
-
-**Friday the 3rd of May 2019**
+## Mark the date: Friday the 3rd of May 2019
 
 ## Location
 
@@ -54,9 +52,9 @@ After the symposium we will go to the restaurant [Nieuwetijd][resto] in the city
 
 **We look forward to seeing you there!**
 
-<!-- ## Flyer -->
+## Flyer
 
-<!-- [![full](/assets/img/poster_rsg_symposium-22-05-18.png){: .center}]({{ site.baseurl }}/assets/pdf/poster_rsg_symposium-22-05-18.pdf) -->
+[![full](/assets/img/poster_rsg_symposium-03-05-19.png){: .center}]({{ site.baseurl }}/assets/pdf/poster_rsg_symposium-03-05-19.pdf)
 
 [aerts]: https://aertslab.org/
 [form]: https://docs.google.com/forms/d/e/1FAIpQLSdsJ94x_S66q1XfOpGqWL53BP2nt_tHN0CWYcZgKEYESXHfww/viewform
