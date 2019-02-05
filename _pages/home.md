@@ -39,8 +39,10 @@ feature_row:
     url: "/mission/"
     btn_label: "Read more"
     btn_class: "btn--primary"
-feature_row_posts:
-    title: "Recent posts"
+# feature_row_posts:
+#     title: "Recent posts"
+---
+
 # [RSG Belgium Student Symposium - May 3rd, 2019 - KU Leuven](/event/student-symposium/student-symposium-03-05-2019/)
 
 {:.center}
@@ -50,8 +52,6 @@ feature_row_posts:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
-
 # Recent announcements
 
 <div class="grid__wrapper">
@@ -59,3 +59,8 @@ feature_row_posts:
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
+
+<div style="clear:both"/>
+<hr>
+
+{% include feature_row %}
