@@ -8,7 +8,7 @@ toc: true
 
 RSG Belgium, the regional student group of the International Society for Computational Biology, kindly invites you to the 2019 Bioinformatics Student Symposium. The main goal of this event is to provide a forum for young researchers and students in bioinformatics where they can present their work, get updated about current research topics and network with their peers.
 
-This year the symposium will take place on Friday 03/05/2019 at the Arenberg Castle ([Arenbergkasteel](https://www.kuleuven.be/kulag/en/gebouw/432-01)) of KU Leuven.
+This year the symposium will take place on Friday 03/05/2019 at the KU Leuven in [Campus Arenberg 200A](https://www.kuleuven.be/kulag/en/gebouw/490-12).
 
 Our keynote speaker is Prof. Dr. Ir. Stein Aerts of the KU Leuven. Stein Aerts is a professor at the Faculty of Medicine of KU Leuven and the head of the [Laboratory of Computational Biology][aerts] (VIB-KU Leuven Center for Brain & Disease Research). His research topics are bioinformatics, single-cell and microfluidics technologies, regulatory genomics and gene regulatory networks, machine learning, _Drosophila_ genomics and regulatory heterogeneity in cancer.
 
@@ -16,9 +16,9 @@ Our keynote speaker is Prof. Dr. Ir. Stein Aerts of the KU Leuven. Stein Aerts i
 
 ## Location
 
-> [Aula Arenbergkasteel (room 01.07) - KU Leuven](https://www.kuleuven.be/kulag/nl/gebouw/432-01), Kasteelpark Arenberg 1, 3001 Heverlee
+> [Computer Science (200A) - room 00.144 - Campus Arenberg](https://www.kuleuven.be/kulag/en/lokaal/490-12-000144), Celestijnenlaan 200A, 3001 Leuven
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2518.2699820280927!2d4.680674715746387!3d50.86320137953443!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c16116b88ff81f%3A0xc63a120b549ee9c5!2sKasteelpark+Arenberg+1%2C+3001+Leuven!5e0!3m2!1snl!2sbe!4v1549035335100" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d629.5558940230346!2d4.678468339510736!3d50.86406055038531!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c16110fd300347%3A0x46c648b1747e02ae!2sDepartement+computerwetenschappen!5e0!3m2!1snl!2sbe!4v1553591106026" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Registration (deadline 19/04/2019)
 
@@ -34,21 +34,24 @@ After the symposium we will go to the restaurant [Nieuwetijd][resto] in the city
 
 ## Schedule
 
-| 12.30 - 13.00 | Registration                             |
-| 13.00 - 13.10 | Opening remarks                          |
-| 13.10 - 14.00 | Keynote - [Prof. Dr. Stein Aerts][aerts] |
-| 14.00 - 14.20 | Tour of RSG Belgium                      |
-| 14.20 - 14.40 | PhD/Master student talk 1                |
-| 14.40 - 15.00 | PhD/Master student talk 2                |
-| 15.00 - 15:50 | Coffee break and poster session          |
-| 15.50 - 16.10 | PhD talk 3                               |
-| 16.10 - 16.30 | PhD talk 4                               |
-| 16.30 - 16.50 | PhD talk 5                               |
-| 16.50 - 17.10 | PhD talk 6                               |
-| 17.10 - 17.30 | PhD talk 7                               |
-| 17.30 - 17.35 | Closing remarks                          |
-| 17.35 - 18.30 | Networking session with drinks           |
-| 19.00         | Social dinner at [Nieuwetijd][resto]     |
+
+|Timeslot|Activity|Speaker|
+|-|-|-|
+| 12.30 - 13.00 | Registration                             | |
+| 13.00 - 13.10 | Opening remarks                          | |
+| 13.10 - 14.00 | Keynote talk | [Prof. Dr. Stein Aerts][aerts] - KU Leuven / VIB |
+| 14.00 - 14.20 | Tour of RSG Belgium                      | Sofia Papadimitriou - President of RSG Belgium |
+| 14.20 - 14.40 | Single-nucleus Genome-plus-Transcriptome sequencing to study Somatic Genome Instability in Brain               | Sarah Geurs - KU Leuven |
+| 14.40 - 15.00 | The Amaretto Framework: Inference Of Cell Circuits And Their Drivers Shared And Distinct Across Biological Systems  | Celine Everaert - UGent |
+| 15.00 - 15:50 | Coffee break and poster session | |
+| 15.50 - 16.10 | System-level metabolic properties of Acetobacter pasteurianus 386B revealed by genome-scale metabolic modelling | Rudy Pelicaen - VUB |
+| 16.10 - 16.30 | Bayesian inference of evolutionary histories under time-dependent substitution rates | Jade Vincent Membrebe - KU Leuven |
+| 16.30 - 16.50 | A novel genetic region prioritization tool to analyse oligogenic diseases | Simon Boutry - UCL/ULB |
+| 16.50 - 17.10 |  GSDME Methylation as a Universal Epigenetic Biomarker for the Most Common Types of Cancer | Joe Ibrahim - UAntwerp |
+| 17.10 - 17.30 | A clustering algorithm for weighted ecological networks | Lisa Röttjers - KU Leuven |
+| 17.30 - 17.35 | Closing remarks                          | |
+| 17.35 - 18.30 | Networking session with drinks           | |
+| 19.00         | Social dinner at [Nieuwetijd][resto]     | |
 
 **We look forward to seeing you there!**
 
