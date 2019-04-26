@@ -39,7 +39,7 @@ After the symposium we will go to the restaurant [Nieuwetijd][resto] in the city
 |-|-|-|
 | 12.30 - 13.00 | Registration                             | |
 | 13.00 - 13.10 | Opening remarks                          | |
-| 13.10 - 14.00 | Keynote talk | [Prof. Dr. Stein Aerts][aerts] - KU Leuven / VIB |
+| 13.10 - 14.00 | Keynote - Deciphering gene expression programs in the era of single-cell genomics | [Prof. Dr. Stein Aerts][aerts] - KU Leuven / VIB |
 | 14.00 - 14.20 | Tour of RSG Belgium                      | Sofia Papadimitriou - President of RSG Belgium |
 | 14.20 - 14.40 | Single-nucleus Genome-plus-Transcriptome sequencing to study Somatic Genome Instability in Brain               | Sarah Geurs - KU Leuven |
 | 14.40 - 15.00 | The Amaretto Framework: Inference Of Cell Circuits And Their Drivers Shared And Distinct Across Biological Systems  | Celine Everaert - UGent |
