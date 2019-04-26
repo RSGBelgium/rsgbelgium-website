@@ -29,9 +29,7 @@ organization:
   - title: "Organization of RSG Belgium"
     children:
       - title: "RSG Belgium Team"
-        url: /organization/#rsg-belgium-team
-      - title: "Web Team"
-        url: /organization/#web-team
+        url: /organization/#rsg-belgium-board
       - title: "University Representatives"
         url: /organization/#university-representatives
       # - title: "Former Board Members"
