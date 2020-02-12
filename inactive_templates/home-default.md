@@ -6,13 +6,14 @@ header:
   #overlay_color: "#378973"
   overlay_color: "#0d9ea5"
   overlay_filter: "0.4"
-  overlay_image: /assets/img/RSGlogoBelgium-banner-notext.png
+  overlay_image:  /assets/img/RSGlogoBelgium-banner-notext.png
   cta_label: "Come have a chat on Slack <i class=\"fab fa-slack\" aria-hidden=\"true\"></i>"
   cta_url: "/slack/"
   cta_label2: "Subscribe to our mailing list <i class=\"fas fa-envelope-open\" aria-hidden=\"true\"></i>"
   cta_url2: "http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "RSG Belgium provides a network for young computational biology and bioinformatics students and researchers in Belgium.<br/><br/>To stay informed about our activities, head over to our events page, follow us on social media pages or..."
+excerpt: "RSG Belgium provides a network for young computational biology and bioinformatics students and researchers in Belgium."
+# <br/><br/>To stay informed about our activities, head over to our events page, social media accounts or mailing list."
 intro:
   - excerpt: 'Welcome to the homepage of **RSG Belgium**, the Belgian branch of the <br>**ISCB Student Council''s Regional Student Groups**.<br><br>If you are interested in joining our network or if you just want to stay up to date on the latest RSG Belgium news, please check out our <br>announcements and upcoming activities in the [news section <i class="far fa-newspaper" aria-hidden="true"></i>](/news/), <br>follow our social media accounts [Twitter <i class="fab fa-twitter" aria-hidden="true"></i>](https://twitter.com/rsgbelgium){:target="_blank"} & [Facebook <i class="fab fa-facebook" aria-hidden="true"></i>](https://www.facebook.com/RSGBelgium){:target="_blank"}, <br>come and have a chat on our [Slack channel <i class="fab fa-slack" aria-hidden="true"></i>](/slack/) <br>or subscribe to the [mailing list <i class="fas fa-envelope-open" aria-hidden="true"></i>](http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium).<br><br>We hope to see you at one of our upcoming events!'
 #[Slack channel <i class="fab fa-slack" aria-hidden="true"></i>](mailto:rsg-belgium@iscbsc.org?Subject=RSG%20Slack%20Subscription&Body=I%20would%20like%20to%20join%20the%20RSG%20Belgium%20Slack%20channel%2E
@@ -38,13 +39,11 @@ feature_row:
     url: "/mission/"
     btn_label: "Read more"
     btn_class: "btn--primary"
-feature_row_posts:
-    title: "Recent posts"
+# feature_row_posts:
+#     title: "Recent posts"
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
 
 # Recent announcements
 
@@ -53,3 +52,8 @@ feature_row_posts:
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
+
+<div style="clear:both"/>
+<hr>
+
+{% include feature_row %}

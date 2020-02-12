@@ -7,8 +7,6 @@ header:
   overlay_color: "#0d9ea5"
   overlay_filter: "0.4"
   overlay_image:  /assets/img/RSGlogoBelgium-banner-notext.png
-  # cta_label: "We will be hosting the RSG Belgium Student Symposium on 22 May 2018"
-  # cta_url: "/event/student-symposium/student-symposium-22-05-2018/"
   cta_label: "Come have a chat on Slack <i class=\"fab fa-slack\" aria-hidden=\"true\"></i>"
   cta_url: "/slack/"
   cta_label2: "Subscribe to our mailing list <i class=\"fas fa-envelope-open\" aria-hidden=\"true\"></i>"
@@ -41,20 +39,19 @@ feature_row:
     url: "/mission/"
     btn_label: "Read more"
     btn_class: "btn--primary"
-feature_row_posts:
-    title: "Recent posts"
+# feature_row_posts:
+#     title: "Recent posts"
 ---
 
-# [RSG Belgium Hackathon - November 16, 2018 - Université Libre de Bruxelles](/news/event/hackathon/first-hackathon/)
+# [RSG Belgium Hackathon - December 6, 2019 - Université Libre de Bruxelles]({% link _posts/2019-10-10-second-hackathon.markdown %})
 
 {:.center}
-[![flyer](/assets/img/hackathon.png){:width="550px"}](/news/event/hackathon/first-hackathon/)
+[![flyer](/assets/img/hackathon_2019.png){:width="550px"}]({% link _posts/2019-10-10-second-hackathon.markdown %})
+
 
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
 
 # Recent announcements
 
@@ -63,3 +60,8 @@ feature_row_posts:
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
+
+<div style="clear:both"/>
+<hr>
+
+{% include feature_row %}

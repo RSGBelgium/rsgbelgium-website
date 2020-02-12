@@ -6,11 +6,11 @@ header:
   #overlay_color: "#378973"
   overlay_color: "#0d9ea5"
   overlay_filter: "0.4"
-  overlay_image: /assets/img/RSGlogoBelgium-banner-notext.png
-  # cta_label: "We will be hosting the RSG Belgium Student Symposium on 22 May 2018"
-  # cta_url: "/event/student-symposium/student-symposium-22-05-2018/"
-  cta_label: "Subscribe to our mailing list"
-  cta_url: "http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium"
+  overlay_image:  /assets/img/RSGlogoBelgium-banner-notext.png
+  cta_label: "Come have a chat on Slack <i class=\"fab fa-slack\" aria-hidden=\"true\"></i>"
+  cta_url: "/slack/"
+  cta_label2: "Subscribe to our mailing list <i class=\"fas fa-envelope-open\" aria-hidden=\"true\"></i>"
+  cta_url2: "http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium"
   # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "RSG Belgium provides a network for young computational biology and bioinformatics students and researchers in Belgium."
 # <br/><br/>To stay informed about our activities, head over to our events page, social media accounts or mailing list."
@@ -39,22 +39,18 @@ feature_row:
     url: "/mission/"
     btn_label: "Read more"
     btn_class: "btn--primary"
-feature_row_posts:
-    title: "Recent posts"
+# feature_row_posts:
+#     title: "Recent posts"
 ---
 
-# [RSG Belgium Student Symposium - May 22, 2018 - University of Antwerp](/event/student-symposium/student-symposium-22-05-2018/)
-
-The schedule for the symposium is now available [here](/event/student-symposium/student-symposium-22-05-2018/#schedule).
+# [RSG Belgium Student Symposium - May 3rd, 2019 - KU Leuven](/event/student-symposium/student-symposium-03-05-2019/)
 
 {:.center}
-[![flyer](/assets/img/poster_rsg_symposium-22-05-18.png){:width="500px"}](/event/student-symposium/student-symposium-22-05-2018/)
+[![flyer](/assets/img/poster_rsg_symposium-03-05-19.png){:width="500px"}](/event/student-symposium/student-symposium-03-05-2019/)
 
 ---
 
 {% include feature_row id="intro" type="center" %}
-
-{% include feature_row %}
 
 # Recent announcements
 
@@ -63,3 +59,8 @@ The schedule for the symposium is now available [here](/event/student-symposium/
     {% include archive-single.html type="grid" %}
   {% endfor %}
 </div>
+
+<div style="clear:both"/>
+<hr>
+
+{% include feature_row %}

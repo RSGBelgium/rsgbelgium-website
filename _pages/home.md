@@ -6,7 +6,7 @@ header:
   #overlay_color: "#378973"
   overlay_color: "#0d9ea5"
   overlay_filter: "0.4"
-  overlay_image:  /assets/img/RSGlogoBelgium-banner-notext.png
+  overlay_image:  /assets/img/RSGlogoBelgium-banner-text.png
   cta_label: "Come have a chat on Slack <i class=\"fab fa-slack\" aria-hidden=\"true\"></i>"
   cta_url: "/slack/"
   cta_label2: "Subscribe to our mailing list <i class=\"fas fa-envelope-open\" aria-hidden=\"true\"></i>"
@@ -41,13 +41,6 @@ feature_row:
     btn_class: "btn--primary"
 # feature_row_posts:
 #     title: "Recent posts"
----
-
-# [RSG Belgium Student Symposium - May 3rd, 2019 - KU Leuven](/event/student-symposium/student-symposium-03-05-2019/)
-
-{:.center}
-[![flyer](/assets/img/poster_rsg_symposium-03-05-19.png){:width="500px"}](/event/student-symposium/student-symposium-03-05-2019/)
-
 ---
 
 {% include feature_row id="intro" type="center" %}

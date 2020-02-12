@@ -129,6 +129,27 @@ $primary-color: #0d9ea5 !default;
   }
 }
 
+.feature__item--left .archive__item-teaser {
+  width: 25%;
+
+}
+.feature__item--right .archive__item-teaser {
+  width: 25%;
+}
+
+.feature__item--left .archive__item-body {
+  width: 70%;
+  padding-left: 0%;
+  padding-right: 0%;
+}
+
+.feature__item--right .archive__item-body {
+  width: 70%;
+  padding-left: 0%;
+  padding-right: 5%;
+  float: unset;
+}
+
 // .archive {
 //   margin-bottom: 2em;
 //   // display: table-cell;
@@ -153,6 +174,8 @@ $primary-color: #0d9ea5 !default;
 //     padding-right: $right-sidebar-width;
 //   }
 // }
+
+
 
 
 
