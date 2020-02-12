@@ -15,15 +15,18 @@ feature_row_president:
     title: "President Sofia Papadimitriou"
     excerpt: 'Sofia is a PhD student at the [Interuniversity Institute of Bioinformatics](https://www.ulb.ac.be/rech/inventaire/chercheurs/9/CH15179.html) in Brussels, a research collaboration between Université Libre de Bruxelles and Vrije Universiteit Brussel. Her research focuses on the development of clinical predictive tools for oligogenic diseases, specialising in neurodevelopmental disorders. She is also a classical guitar player and occasional writer (yes, not only papers).'
 feature_row_vice:
-  - image_path: /assets/img/people/simon-boutry.jpg
-    alt: "Simon Boutry"
-    title: "Vice President: Simon Boutry"
-    excerpt: 'Simon is doing a joint PhD at de [Duve Institute (UCLouvain)](https://www.deduveinstitute.be/nl/user/533) and the Interuniversity Institute of Bioinformatics in Brussels (ULB-VUB). His research focuses on the development of a novel genetic regions prioritization to analyse oligogenic diseases. He loves to learn and develop new ideas. Always ready for challenge and looking for passionate people to work with.'
+  - image_path: /assets/img/people/nikolina.jpg
+    alt: "Nikolina Sostaric"
+    title: "Vice President: Nikolina Sostaric"
+    excerpt: 'The current vice-president of RSG Belgium, Nikolina is an FWO PhD fellow in the [Computational Systems Biology lab](https://www.biw.kuleuven.be/CSB/) of Prof. Vera van Noort [@KU Leuven](https://www.kuleuven.be/wieiswie/en/person/00106894). Her research focuses on the function of post-translational modifications in protein interactions.'
+    # url: "https://www.kuleuven.be/wieiswie/en/person/00106894"
+    # btn_label: "Personal link"
+    # btn_class: "btn--primary"
 feature_row_secretary:
   - image_path: /assets/img/people/moris.jpg
     alt: "Pieter Moris"
     title: "Secretary / web team: Pieter Moris"
-    excerpt: '[Pieter](https://pmoris.github.io/) is a PhD student at [Adrem Data Lab](https://www.uantwerpen.be/en/staff/pieter-moris/) and [Biomina](https://www.biomina.be/) at UAntwerpen. His research focuses on the application of machine learning techniques in the context of host-pathogen interactions and immunology.'
+    excerpt: 'Pieter is a PhD student at the ADReM Data Lab [@UAntwerpen](https://www.uantwerpen.be/en/staff/pieter-moris/) whose research focuses on host-pathogen interactions and machine learning.<br>Also web development apparently.'
     # url: "https://www.uantwerpen.be/en/staff/pieter-moris/"
     # btn_label: "Personal link"
     # btn_class: "btn--primary"
@@ -49,7 +52,7 @@ feature_row_ulb:
     excerpt: 'Charlotte is a PhD student at [Interuniversity Institute of Bioinformatics in Brussels](https://ibsquare.be/drupal/members/charlotte-nachtegael) and teaching assistant in the [Informatics Department at ULB](https://www2.ulb.ac.be/rech/inventaire/chercheurs/4/CH15494.html). Her research focuses on the study of oligogenic diseases through networks and graph theory. She enjoys geeking on a good game or book in her free time, or playing around with her ukelele.'
 sidebar:
   nav: "organization"
-# toc: true
+toc: true
 ---
 
 <!--
@@ -89,4 +92,4 @@ Bullet-list ToC
 
 {% include feature_row id="feature_row_ua" type="right" %}
 
-We are looking for additional representatives across all Belgian universities. If you're interested, [please let us know](/contact)!
+We are looking for additional representatives across all Belgian universities. If you're interested, [please let us know](/news/looking-back-and-looking-forward/#university-representatives)!
