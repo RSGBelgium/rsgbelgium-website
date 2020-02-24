@@ -43,6 +43,13 @@ feature_row:
 #     title: "Recent posts"
 ---
 
+# [RSG Belgium Student Symposium - May 15th, 2020 - UCLouvain](/event/student-symposium/student-symposium-15-05-2020/)
+
+{:.center}
+[![flyer](/assets/img/poster_rsg_symposium-15-05-20.png){:width="500px"}](/event/student-symposium/student-symposium-15-05-2020/)
+
+---
+
 {% include feature_row id="intro" type="center" %}
 
 # Recent announcements
