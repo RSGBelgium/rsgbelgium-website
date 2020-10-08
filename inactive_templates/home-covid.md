@@ -43,10 +43,17 @@ feature_row:
 #     title: "Recent posts"
 ---
 
-# [RSG Belgium Student Symposium - December 4th, 2020 - Airmeet](/event/student-symposium/student-symposium-04-12-2020/)
+# [RSG Belgium Student Symposium (May 5th, 2020 - UCLouvain) is being postponed due to Covid-19](/event/student-symposium/student-symposium-05-05-2020/)
 
-{:.center}
-[![flyer](/assets/img/poster_symposium_2020_logo-virtual.png){:width="500px"}](/event/student-symposium/student-symposium-04-12-2020/)
+> In face of the SARS-CoV-2 pandemic, we regret to announce that the RSG Belgium Student Symposium planned on the 5th of May 2020 will be postponed to a later date, presumably somewhere in Fall 2020.
+>
+> Stay safe and look out for each other.
+>
+> Kind regards,
+> The RSG Belgium Team
+
+<!-- {:.center}
+[![flyer](/assets/img/poster_rsg_symposium-05-05-20.png){:width="500px"}](/event/student-symposium/student-symposium-05-05-2020/) -->
 
 ---
 
