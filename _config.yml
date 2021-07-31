@@ -26,8 +26,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "ISCB Regional Student Group - Belgium"
-title-img                : "/assets/img/rsg_logo_update_300dpi.png"
+title                    : "Regional Student Group - Belgium"
+title-img                : "/assets/img/logo/rsg_logo_update_300dpi.png"
 title_separator          : "-"
 name                     : "RSG Belgium"
 description              : "The Belgian branch of the international student organisation for bioinformaticians and computational biologists (ISCB Student Council)."
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "RSG Belgium"
-  avatar           : "/assets/img/rsg_logo_update_300dpi.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/logo/rsg_logo_update_300dpi.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The Belgian Regional Student Group of the ISCB Student Council."
   location         : "Belgium"
   email            : "rsg-belgium@iscbsc.org"
@@ -168,7 +168,6 @@ exclude:
   - /test # ignore Minimal Mistakes /test
   - assets/img/people/image-workdir
   - deprecated
-  - assets/img/logo
 keep_files:
   - .git
   - .svn
@@ -196,6 +195,7 @@ kramdown:
   enable_coderay: false
 
 
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
@@ -217,7 +217,8 @@ plugins:
   - jekyll-feed
   # - jemoji
   - jekyll-data
-
+  - jekyll-twitter-plugin
+  - jekyll-include-cache
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

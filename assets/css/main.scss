@@ -130,10 +130,12 @@ $primary-color: #0d9ea5 !default;
 }
 
 .feature__item--left .archive__item-teaser {
+  border-radius: 10%;
   width: 25%;
 
 }
 .feature__item--right .archive__item-teaser {
+  border-radius: 10%;
   width: 25%;
 }
 

@@ -1,26 +1,13 @@
 # main links
 main:
- - title: "News & Events"
+ - title: "About"
+   url: /about/
+
+ - title: "News"
    url: /news/
-
- - title: "Twitter"
-   url: https://twitter.com/rsgbelgium
-
- - title: "Facebook"
-   url: https://www.facebook.com/RSGBelgium
-
- - title: "Slack"
-   url: /slack/
-#  url: mailto:rsg-belgium@iscbsc.org?Subject=RSG%20Slack%20Subscription&Body=I%20would%20like%20to%20join%20the%20RSG%20Belgium%20Slack%20channel%2E
 
  - title: "Organization"
    url: /organization/
-
- - title: "Mission statement"
-   url: /mission/
-
- - title: "ISCB Student Council"
-   url: http://www.iscbsc.org/
 
  - title: "Contact us"
    url: /contact/
@@ -32,7 +19,5 @@ organization:
         url: /organization/#rsg-belgium-board
       - title: "University Representatives"
         url: /organization/#university-representatives
-      # - title: "Former Board Members"
-      #   url: /organization/#former-board-members
       - title: "ISCB Student Council"
         url: http://www.iscbsc.org/

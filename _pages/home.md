@@ -1,66 +1,46 @@
 ---
 layout: splash
+title: Connect to bioinformatics
 permalink: /
-author_profile: true
+author_profile: true    
 header:
-  #overlay_color: "#378973"
   overlay_color: "#0d9ea5"
-  overlay_filter: "0.4"
-  overlay_image:  /assets/img/RSGlogoBelgium-banner-text.png
-  cta_label: "Come have a chat on Slack <i class=\"fab fa-slack\" aria-hidden=\"true\"></i>"
-  cta_url: "/slack/"
-  cta_label2: "Subscribe to our mailing list <i class=\"fas fa-envelope-open\" aria-hidden=\"true\"></i>"
-  cta_url2: "http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium"
-  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-excerpt: "RSG Belgium provides a network for young computational biology and bioinformatics students and researchers in Belgium."
-# <br/><br/>To stay informed about our activities, head over to our events page, social media accounts or mailing list."
-intro:
-  - excerpt: 'Welcome to the homepage of **RSG Belgium**, the Belgian branch of the <br>**ISCB Student Council''s Regional Student Groups**.<br><br>If you are interested in joining our network or if you just want to stay up to date on the latest RSG Belgium news, please check out our <br>announcements and upcoming activities in the [news section <i class="far fa-newspaper" aria-hidden="true"></i>](/news/), <br>follow our social media accounts [Twitter <i class="fab fa-twitter" aria-hidden="true"></i>](https://twitter.com/rsgbelgium){:target="_blank"} & [Facebook <i class="fab fa-facebook" aria-hidden="true"></i>](https://www.facebook.com/RSGBelgium){:target="_blank"}, <br>come and have a chat on our [Slack channel <i class="fab fa-slack" aria-hidden="true"></i>](/slack/) <br>or subscribe to the [mailing list <i class="fas fa-envelope-open" aria-hidden="true"></i>](http://listserver.ua.ac.be/sympa/subscribe/rsg-belgium).<br><br>We hope to see you at one of our upcoming events!'
-#[Slack channel <i class="fab fa-slack" aria-hidden="true"></i>](mailto:rsg-belgium@iscbsc.org?Subject=RSG%20Slack%20Subscription&Body=I%20would%20like%20to%20join%20the%20RSG%20Belgium%20Slack%20channel%2E
-feature_row:
-  - #image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    #alt: "placeholder image 1"
-    title: "News"
-    # excerpt: "An overview of our upcoming<br>and previous activities, as well as <br>general announcements."
-    excerpt: "General announcements and an overview of past and future events."
-    url: "/news/"
-    btn_label: "News and activities"
-    btn_class: "btn--primary"
-  - #image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Organization"
-    excerpt: "The people behind **RSG Belgium**.<br><br>"
-    url: "/organization/"
-    btn_label: "Meet the team"
-    btn_class: "btn--primary"
-  - #image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    #alt: "placeholder image 2"
-    title: "Mission statement"
-    excerpt: "The goals and ambitions of **RSG Belgium**.<br><br>"
-    url: "/mission/"
-    btn_label: "Read more"
-    btn_class: "btn--primary"
-# feature_row_posts:
-#     title: "Recent posts"
+  overlay_filter: "0.65"
+  overlay_image:  /assets/img/photo_gallery/banner.jpg
+  cta_label: 'Get connected'
+  cta_url: "contact/"
+  
+excerpt: "RSG Belgium provides a network for bioinformaticians in Belgium."
 ---
 
-# [RSG Belgium Student Symposium - December 4th, 2020 - Airmeet](/event/student-symposium/student-symposium-04-12-2020/)
+## Our coverage
 
-{:.center}
-[![flyer](/assets/img/poster_symposium_2020_logo-virtual.png){:width="500px"}](/event/student-symposium/student-symposium-04-12-2020/)
+<div style="margin-top:10px;margin-top:10px;text-align:center">
+    {% include institution-logo.html src="../assets/img/logo/institutions/kuleuven-greyscale.png" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/uclouvain-greyscale.png" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/uantwerp-greyscale.png" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/uhasselt-greyscale.png" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/ulb-greyscale.png" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/uliege-greyscale.png" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/vub-greyscale.png" %}
+</div>
 
----
+## Our projects
 
-{% include feature_row id="intro" type="center" %}
+<div style="margin-top:10px;margin-top:10px;text-align:center">
+    <p><a href="{{site.url}}/about/"><img src="../assets/img/rsg_project.svg" style="max-height:250px;"></a></p>
+</div>
 
-# Recent announcements
+## Supported by
+
+<a href="https://www.iscbsc.org/"><img src="../assets/img/logo/ISCBSC-greyscale.png" style="max-width:240px;"></a>
+
+## Latest posts
 
 <div class="grid__wrapper">
-  {% for post in site.posts limit:3 %}
-    {% include archive-single.html type="grid" %}
+  {% for post in site.posts limit:4 %}
+    {% include archive-single.html type="grid"%}
   {% endfor %}
 </div>
 
-<div style="clear:both"/>
-<hr>
-
-{% include feature_row %}
+[Read more]({{site.url}}/news/)

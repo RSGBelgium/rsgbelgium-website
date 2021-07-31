@@ -69,7 +69,7 @@ After the symposium we will go to the restaurant [Verona][verona] in the city ce
 
 ## Flyer
 
-[![full](/assets/img/poster_rsg_symposium-22-05-18.png){: .center}]({{ site.baseurl }}/assets/pdf/poster_rsg_symposium-22-05-18.pdf)
+[![full](/assets/img/poster/poster_rsg_symposium-22-05-18.png){: .center}]({{ site.baseurl }}/assets/pdf/poster/poster_rsg_symposium-22-05-18.pdf)
 
 [biomina]: http://www.biomina.be/
 [krislaukens]: https://www.uantwerpen.be/en/staff/kris-laukens/
