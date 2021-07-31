@@ -77,6 +77,6 @@ The workshop in the morning will be hosted in a nearby building on the same camp
 
 ## Flyer
 
-[![full](/assets/img/poster_rsg_symposium-05-05-20.png){: .center}]({{ site.baseurl }}/assets/pdf/poster_rsg_symposium-05-05-20.pdf)
+[![full](/assets/img/poster/poster_rsg_symposium-05-05-20.png){: .center}]({{ site.baseurl }}/assets/pdf/poster/poster_rsg_symposium-05-05-20.pdf)
 
 [form]: https://forms.gle/DqiqF9WSsGCXW2jh6
