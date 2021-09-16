@@ -23,6 +23,7 @@ excerpt: "RSG Belgium provides a network for bioinformaticians in Belgium."
     {% include institution-logo.html src="../assets/img/logo/institutions/ulb-greyscale.png" %}
     {% include institution-logo.html src="../assets/img/logo/institutions/uliege-greyscale.png" %}
     {% include institution-logo.html src="../assets/img/logo/institutions/vub-greyscale.png" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/ughent-greyscale.svg" %}
 </div>
 
 ## Our projects
