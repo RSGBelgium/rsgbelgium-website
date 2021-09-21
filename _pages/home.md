@@ -16,13 +16,14 @@ excerpt: "RSG Belgium provides a network for bioinformaticians in Belgium."
 ## Our coverage
 
 <div style="margin-top:10px;margin-top:10px;text-align:center">
-    {% include institution-logo.html src="../assets/img/logo/institutions/kuleuven-greyscale.png" %}
-    {% include institution-logo.html src="../assets/img/logo/institutions/uclouvain-greyscale.png" %}
-    {% include institution-logo.html src="../assets/img/logo/institutions/uantwerp-greyscale.png" %}
-    {% include institution-logo.html src="../assets/img/logo/institutions/uhasselt-greyscale.png" %}
-    {% include institution-logo.html src="../assets/img/logo/institutions/ulb-greyscale.png" %}
-    {% include institution-logo.html src="../assets/img/logo/institutions/uliege-greyscale.png" %}
-    {% include institution-logo.html src="../assets/img/logo/institutions/vub-greyscale.png" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/kuleuven-greyscale.svg" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/uclouvain-greyscale.svg" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/uantwerp-greyscale.svg" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/uhasselt-greyscale.svg" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/uliege-greyscale.svg" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/vub-greyscale.svg" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/ulb-greyscale.svg" %}
+    {% include institution-logo.html src="../assets/img/logo/institutions/ughent-greyscale.svg" %}
 </div>
 
 ## Our projects
